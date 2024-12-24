@@ -1,0 +1,10 @@
+// Syntax error on or just before line 6
+begin 
+   { 
+   print 39713 ; 
+   return 692451 ; 
+end 
+H ( ) { 
+} 
+vy ( ) { 
+} 

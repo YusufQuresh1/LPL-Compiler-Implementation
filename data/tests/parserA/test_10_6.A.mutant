@@ -1,0 +1,6 @@
+// Syntax error on or just before line 3
+begin 
+   newline ; ; 
+   while ( 059 ) 
+      newline ; 
+end 

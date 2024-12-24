@@ -1,0 +1,8 @@
+// test_20_8.A
+begin
+   print 772805122; 
+   println E; 
+   newline; 
+   {
+   }
+end

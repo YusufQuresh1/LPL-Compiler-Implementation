@@ -1,0 +1,19 @@
+// Syntax error on or just before line 16
+begin 
+   print IxzKsaHCb ; 
+   if ( _W ) 
+      newline ; 
+   else 
+      { 
+      } 
+   { 
+   } 
+end 
+i8sAkQCC ( ) { 
+   { 
+   } 
+   newline ; 
+   ; 
+} 
+_N ( ) { 
+} 

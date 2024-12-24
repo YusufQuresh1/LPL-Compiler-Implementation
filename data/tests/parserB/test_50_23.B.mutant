@@ -1,0 +1,15 @@
+// Syntax error on or just before line 13
+begin 
+   { 
+   } 
+   return _U$$ ; 
+   newline ; 
+   print 4286 ; 
+end 
+TcMDHF3t ( ) { 
+   println 765 ; 
+   newline ; 
+} 
+_LQGcNHgD ( ) { JvUC ; 
+   newline ; 
+} 

@@ -1,0 +1,11 @@
+// Syntax error on or just before line 6
+begin 
+   newline ; 
+   printch _wd ; 
+end 
+_X ( _W ) { local C , _aErUpLs ; local C , _aErUpLs ; 
+   return 523 ; 
+} 
+_Xt ( ) { 
+   println _A ; 
+} 

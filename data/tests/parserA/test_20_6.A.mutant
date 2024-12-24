@@ -1,0 +1,5 @@
+// Syntax error on or just before line 4
+begin 
+   g := _Y && ! 1 ; 
+   5 ; 
+end 

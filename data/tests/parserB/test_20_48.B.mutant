@@ -1,0 +1,13 @@
+// Syntax error on or just before line 10
+begin 
+   { 
+   while ( 4 ) 
+      { 
+      } 
+   { 
+   } 
+   println 51653783 
+   } ; 
+end 
+LrcfSs93lk ( ) { 
+} 

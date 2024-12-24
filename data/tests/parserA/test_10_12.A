@@ -1,0 +1,5 @@
+// test_10_12.A
+begin
+   newline; 
+   println 950; 
+end

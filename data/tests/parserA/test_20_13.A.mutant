@@ -1,0 +1,12 @@
+// Syntax error on or just before line 11
+begin 
+   { 
+   } 
+   newline ; 
+   newline ; 
+   if ( 4080712 ) 
+      printch 672054 ; 
+   else 
+      { 
+      end 
+} 

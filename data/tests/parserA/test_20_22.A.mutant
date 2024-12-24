@@ -1,0 +1,11 @@
+// Syntax error on or just before line 3
+begin 
+   ; 
+   { 
+   } 
+   if ( 571 ) 
+      newline ; 
+   else 
+      { 
+      } 
+end 

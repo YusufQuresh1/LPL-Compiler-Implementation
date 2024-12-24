@@ -1,0 +1,13 @@
+// Syntax error on or just before line 12
+begin 
+   while ( ( ( 0 ) && _K ) <= _75$C . length ) 
+      { 
+      } 
+   newline ; 
+end 
+_V ( ) { 
+} 
+wC ( _dsCT ) { 
+} 
+_q _q ( ) { 
+} 

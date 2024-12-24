@@ -1,0 +1,15 @@
+//hello world
+
+begin
+    printch 104; // h
+    printch 101;
+    printch 108;
+    printch 108;
+    printch 111;
+    printch 32; // SP
+    printch 119;
+    printch 111;
+    printch 114;
+    printch 108;
+    printch 100;
+end

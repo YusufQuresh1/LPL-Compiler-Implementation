@@ -1,0 +1,18 @@
+// Syntax error on or just before line 4
+begin 
+   printch ( _D || ( ( 3074729 ) ) ) || _Ym02R3vX0ZeFIEH ; 
+   print ! ( 96888 <= ( 6 ) ) || ; 
+   newline ; 
+   newline ; 
+   while ( 13 * 0 ) 
+      newline ; 
+   print B ; 
+   newline ; 
+   { 
+   } 
+   { 
+   } 
+   newline ; 
+   { 
+   } 
+end 

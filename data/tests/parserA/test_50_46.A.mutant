@@ -1,0 +1,16 @@
+// Syntax error on or just before line 8
+begin 
+   if ( i * 95 ) 
+      newline ; 
+   else 
+      print y1lX1jwbaFLqRID - 4365289 ; 
+   newline ; 
+   if ( 6 ) ) 
+      newline ; 
+   else 
+      newline ; 
+   { 
+   } 
+   { 
+   } 
+end 

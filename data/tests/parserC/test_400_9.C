@@ -1,0 +1,62 @@
+// test_400_9.C
+begin
+   newline; 
+   return 6 || 69; 
+   newline; 
+   newline; 
+end
+_cCh(_mzFmZA0agCBoqGdY8A42x, Iz, vy0Ht4, _I29_eif, Vi, rJ, Hz){local _k, C$xxpwa, HUv1, K, gUdIYPN21zvH, _$r; 
+   return !!398 <= (i); 
+   print _qzsi[4] / 26; 
+   println law; 
+   newline; 
+   {
+   }
+}
+kUSq9Q2u5J(Z, R, FQD, _C94, _l, o){local _7F, Q, P, iPmoXO; 
+   print VbbsmwdeIgfdyGk.length <= new[(6847) || 52]; 
+   newline; 
+   newline; 
+}
+puKi2(Vn, _UEz){local pP, _hEXw, MG; 
+   {
+   }
+   {
+   }
+   {
+   }
+   newline; 
+}
+_Jqb(_QL, F){local _Uqr, _XBBwcvXfas; 
+   return 95 * 422945; 
+   return oROL1mb; 
+   {
+   }
+   return 168; 
+}
+_gfeVSdN(_0, _wEr){local _MedK; 
+   printch !75 + 5; 
+   if (0)
+      newline; 
+   else 
+      printch 7651787; 
+   newline; 
+}
+EIWI(_A, Npmt, _Z, s7aHq7QfJyw0yHvlK){local _yiv, Nn; 
+   while (_CyYf9jYW7nbw)
+      if (_BP0_)
+         {
+         }
+      else 
+         {
+            _N_(); 
+         }
+   {
+   }
+}
+_7Gfk(){local PNW, _W_, TlR, _p; 
+}
+Tg(){
+}
+_Jq7(){
+}

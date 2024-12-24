@@ -1,0 +1,10 @@
+// test_20_14.A
+begin
+   {
+      newline; 
+      newline; 
+      println _b; 
+      newline; 
+      newline; 
+   }
+end

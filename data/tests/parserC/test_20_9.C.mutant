@@ -1,0 +1,5 @@
+// Syntax error on or just before line 3
+begin 
+   print 2 72231 HI ; 
+   Bl1 [ 0 ] := / ; 
+end 

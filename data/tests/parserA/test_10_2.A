@@ -1,0 +1,6 @@
+// test_10_2.A
+begin
+   printch 3; 
+   {
+   }
+end

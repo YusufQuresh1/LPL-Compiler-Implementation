@@ -1,0 +1,30 @@
+// test_100_41.B
+begin
+   printch 73768959 || r; 
+   print _Q; 
+   {
+      dN := pLax9b; 
+      println _dBeg; 
+      {
+      }
+   }
+   {
+   }
+end
+_WZIHC7c(MuC, _0, a){local a$; 
+   println _kJ; 
+   {
+   }
+}
+_8(){
+}
+_7I(){
+}
+_sjUoOclAiL(_tZycOy5){
+   {
+   }
+   {
+   }
+}
+_bbi3(){
+}

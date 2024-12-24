@@ -1,0 +1,14 @@
+// Syntax error on or just before line 11
+begin 
+   printch 321 <= ( ( ( ! ( lw ) && 8689 ) * ! ! ( ! ! 2 ) ) + 307 ) ; 
+   newline ; 
+   println 5764212 && _j ; 
+   newline ; 
+   { 
+   } 
+   { 
+   } 
+   ltQ8 := ; 
+   print _02 ; 
+   newline ; 
+end 

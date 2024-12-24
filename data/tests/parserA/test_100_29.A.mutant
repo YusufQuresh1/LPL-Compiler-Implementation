@@ -1,0 +1,21 @@
+// Syntax error on or just before line 19
+begin 
+   { 
+      if ( _jyt ) 
+         print 7 ; 
+      else 
+         print ( 57 && l ) * 847 ; 
+      newline ; 
+      newline ; 
+   } 
+   while ( _U7p ) 
+      println 51 == 0 ; 
+   while ( ( 06 ) ) 
+      if ( _5zxI ) 
+         { 
+         } 
+      else 
+         printch _gQ ; 
+   printch ; 
+   newline ; 
+end 

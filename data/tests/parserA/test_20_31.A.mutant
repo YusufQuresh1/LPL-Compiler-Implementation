@@ -1,0 +1,7 @@
+// Syntax error on or just before line 6
+begin 
+   while ( 0 ) 
+      { 
+      } 
+   printch ! _7Tp89 <= <= OrD ; 
+end 

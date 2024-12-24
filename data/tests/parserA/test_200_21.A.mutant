@@ -1,0 +1,35 @@
+// Syntax error on or just before line 6
+begin 
+   newline ; 
+   { 
+      printch 5 && 6 ; 
+      _F := 09 Fc ; 
+      if ( _ZHuK5d ) 
+         println 669 ; 
+      else 
+         newline ; 
+      _SLeRKwi := ! wV_sMCxCkouj - 1 ; 
+      _$ := 54603 ; 
+      newline ; 
+   } 
+   Dx55C := 6 == ! _UV ; 
+   while ( 16265 / ( _a$ ) ) 
+      print ! 27427231 && _c ; 
+   if ( _61mNhsY < 90543857 ) 
+      { 
+         k := 3 ; 
+         print 845 ; 
+         if ( ( ( 316715628 ) == 371 ) - 9 ) 
+            { 
+            } 
+         else 
+            print 98976 ; 
+         { 
+         } 
+      } 
+   else 
+      { 
+      } 
+   printch 9644 && Q4 ; 
+   print ! ! 434 ; / 
+end 

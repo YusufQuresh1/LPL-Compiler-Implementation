@@ -1,0 +1,50 @@
+// test_400_42.B
+begin
+   if (_s(428) == 763528)
+      return 8407 < Js(Myfnv); 
+   else 
+      {
+         printch !39297 || fLj; 
+         if (250)
+            if (11958531)
+               print 40; 
+            else 
+               while (716)
+                  print u; 
+         else 
+            printch 6532 < _6RWiz(); 
+         println gz$; 
+         print _IM$z; 
+         printch _1F5ilIwoaI1P && 4; 
+      }
+   {
+      {
+         newline; 
+         {
+         }
+      }
+      newline; 
+   }
+   println !(_Qz94YS$$T) && !360016; 
+   newline; 
+   if (984)
+      {
+      }
+   else 
+      newline; 
+end
+Bk(jyn, _5, _dl, _DYju$a3r, _aN, _Ji, CFZ){local _u4dm, _JFP, y; 
+   while ((aGIIh) * TLNu(X(17, 2, EoTT3) + 82603185, _i$T, 2, 11316))
+      newline; 
+   _6wiO(); 
+   println _K; 
+   print (b * B5k) || !26; 
+}
+_8Dn(_icj, uKRzCKFr){local _Z4J2Lqg, PMY, WvRHWUHbaCHUZ, wBbOW, _ZYB, iv, b; 
+   _nP(4); 
+   return 579918; 
+   {
+   }
+}
+Z(XHQl814D8_, _L9wuX, _7Ee){local _P0zDHpi, _Tk, _q4wpN; 
+}

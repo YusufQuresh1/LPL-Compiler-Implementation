@@ -1,0 +1,12 @@
+// Syntax error on or just before line 5
+begin 
+   print 8 || new [ 1495 == n ] ; 
+   print 3 ; 
+   while ( ) 
+      { 
+      } 
+end 
+Rt2kgsQ ( ) { 
+} 
+U ( ) { 
+} 

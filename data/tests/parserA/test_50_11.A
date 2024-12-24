@@ -1,0 +1,17 @@
+// test_50_11.A
+begin
+   while (19786)
+      newline; 
+   {
+   }
+   print (80); 
+   print 203 == V; 
+   newline; 
+   {
+   }
+   if (3362)
+      print Xjmhr; 
+   else 
+      newline; 
+   newline; 
+end

@@ -1,0 +1,17 @@
+// Syntax error on or just before line 15
+begin 
+   while ( 19786 ) 
+      newline ; 
+   { 
+   } 
+   print ( 80 ) ; 
+   print 203 == V ; 
+   newline ; 
+   { 
+   } 
+   if ( 3362 ) 
+      print Xjmhr ; 
+   else 
+      ; 
+   newline ; 
+end 

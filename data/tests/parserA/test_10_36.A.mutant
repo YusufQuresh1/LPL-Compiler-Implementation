@@ -1,0 +1,4 @@
+// Syntax error on or just before line 3
+begin 
+   println _6g _6g ; 
+end 

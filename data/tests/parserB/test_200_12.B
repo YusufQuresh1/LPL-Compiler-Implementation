@@ -1,0 +1,44 @@
+// test_200_12.B
+begin
+   return _y * e; 
+   println (_AmOCXIsw) == 9; 
+   {
+   }
+   IvV(); 
+   {
+   }
+   {
+   }
+end
+Hk(BG, _iM, sU6SdloDjDeP){local Ty0, v, D2hUJM; 
+   return FkcaL38m(_8SlxE); 
+   {
+   }
+   newline; 
+}
+xrRkvr(JbFxDnMFD, _8){local _0OD$HP0DT1cJ, _P_H$wk, VJc; 
+   printch 2662; 
+   printch _Vc33JhR - D; 
+   if (U)
+      {
+      }
+   else 
+      newline; 
+   while (746092012 * 5)
+      newline; 
+   printch xyM8E; 
+   {
+   }
+   if (M)
+      newline; 
+   else 
+      newline; 
+   newline; 
+}
+_m(_0WFcXqTQZ){local ht3ZW5; 
+   {
+   }
+   newline; 
+}
+U(){local tjqcCbDZrJ; 
+}

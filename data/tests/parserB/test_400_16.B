@@ -1,0 +1,69 @@
+// test_400_16.B
+begin
+   println !_6S82r0Bx$W * 2; 
+   println _dL$; 
+   if (!!!_XW2uT(_O && 1069489243, _HCF) && _zwad1f)
+      _aJ(); 
+   else 
+      if (_37IOl)
+         print !31355; 
+      else 
+         xQ1A := _xiDZs4W; 
+   print 4285 - _4; 
+   {
+      println 326; 
+      if (nCCS_f)
+         while (pvi$$vgPae)
+            print 3052286; 
+      else 
+         print 73; 
+      println sfx7; 
+      e(); 
+   }
+   print _femlj0Efy; 
+   TAA := _p9H; 
+   {
+   }
+   while (042)
+      println _p; 
+   newline; 
+   {
+   }
+   newline; 
+end
+_WuNtpng0A37(lDZ_G, _RBs9B, _E8tg, R14qHmWLXTE, V, qx){local _O, _z80Av5S, hKu, _IZP1Q, Jh, R; 
+   newline; 
+   print _ZdG; 
+   newline; 
+   newline; 
+   newline; 
+   newline; 
+}
+_h(_7e, _jA, w3yp, _Z7){local _Jm, _7u, z0q, qW, _5; 
+   if (c4)
+      while (54322)
+         newline; 
+   else 
+      newline; 
+   F := _ULWFDG8; 
+   newline; 
+   {
+   }
+}
+_TE(n7, _kgjWhL, g){local uw, _RlV0Ex, _32z; 
+   while (7004591 * 741)
+      if (60)
+         {
+         }
+      else 
+         X := W3; 
+   if (y2)
+      println r; 
+   else 
+      print !1 || 7; 
+   print !3 <= PUR4; 
+   {
+   }
+}
+__85Dh(){
+}

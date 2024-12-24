@@ -1,0 +1,10 @@
+// Syntax error on or just before line 5
+begin 
+   print ctTWqW ; 
+   
+   } 
+   if ( 3 ) 
+      newline ; 
+   else 
+      newline ; 
+end 

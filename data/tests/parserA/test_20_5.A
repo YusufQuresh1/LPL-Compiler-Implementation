@@ -1,0 +1,10 @@
+// test_20_5.A
+begin
+   print ctTWqW; 
+   {
+   }
+   if (3)
+      newline; 
+   else 
+      newline; 
+end

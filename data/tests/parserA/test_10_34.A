@@ -1,0 +1,5 @@
+// test_10_34.A
+begin
+   newline; 
+   printch _ptZ; 
+end

@@ -1,0 +1,14 @@
+// test_50_5.B
+begin
+   newline; 
+   {
+   }
+   while (_AzA8)
+      _rk(!8 / 20306, hnahHWTUS); 
+end
+_LaL1$b7(){
+}
+Ma(){
+}
+KA_Y(){
+}

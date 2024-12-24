@@ -1,0 +1,11 @@
+// test_20_9.A
+begin
+   if (_kD)
+      if (08)
+         println sMZF; 
+      else 
+         {
+         }
+   else 
+      newline; 
+end

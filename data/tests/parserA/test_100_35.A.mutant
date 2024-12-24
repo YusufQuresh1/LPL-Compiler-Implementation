@@ -1,0 +1,30 @@
+// Syntax error on or just before line 16
+begin 
+   O := 9742 == ! _x ; 
+   { 
+      println ! _L < V02o$ ; 
+      { 
+      } 
+      { 
+      } 
+      { 
+      } 
+   } 
+   newline ; 
+   if ( _7a == _8da ) 
+      
+         printch 7 ; ( 62227 ) ; 
+   else 
+      printch 41 ; 
+   if ( 0922 ) 
+      { 
+      } 
+   else 
+      { 
+      } print 
+   if ( 0 ) 
+      { 
+      } 
+   else 
+      newline ; 
+end 

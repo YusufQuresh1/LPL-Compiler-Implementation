@@ -1,0 +1,12 @@
+// Syntax error on or just before line 9
+begin 
+   newline ; 
+   printch i ; 
+   { 
+   } 
+end 
+S4 ( ZN3QC ) { local Udx , v4npKTCV3t , _Be ; 
+   return ! sjB <= 85118 ; ; 
+} 
+_zg ( ) { 
+} 

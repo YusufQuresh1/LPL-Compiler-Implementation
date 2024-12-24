@@ -1,0 +1,8 @@
+// test_20_3.A
+begin
+   if (96290 + !Q)
+      {
+      }
+   else 
+      newline; 
+end

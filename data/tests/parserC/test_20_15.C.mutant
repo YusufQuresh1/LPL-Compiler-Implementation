@@ -1,0 +1,9 @@
+// Syntax error on or just before line 9
+begin 
+   { 
+   } 
+   _oXM [ _sTh ] := _WpUAV ; 
+   newline ; 
+end 
+_W6 ( ) { { 
+} 

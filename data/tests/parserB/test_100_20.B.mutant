@@ -1,0 +1,27 @@
+// Syntax error on or just before line 24
+begin 
+   { 
+      newline ; 
+   } 
+   print vzWv == 60865 ; 
+   { 
+      { 
+      } 
+      { 
+      } 
+   } 
+   { 
+   } 
+end 
+SCq ( ) { 
+   { 
+   } 
+} 
+S ( uJtPNfgWmPlIaLWR , F ) { local p , _VR ; 
+   { 
+   } 
+} 
+I ( wZ8x_b ) { , _l 
+} 
+_M_q9 ( ) { local D4 ; 
+} 

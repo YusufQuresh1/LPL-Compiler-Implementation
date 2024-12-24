@@ -1,0 +1,27 @@
+// test_100_38.B
+begin
+   {
+   }
+   newline; 
+   {
+   }
+   newline; 
+   return _E3vP; 
+   newline; 
+end
+Tcg8pg(){
+   {
+   }
+}
+_OB$LxJW(AOZLm, Ww, _5){local bhX, _W, g; 
+   print y; 
+   if (LSGas)
+      while (_GDjErsnFP)
+         newline; 
+   else 
+      {
+      }
+   print 9; 
+   while (_5El)
+      println 61; 
+}

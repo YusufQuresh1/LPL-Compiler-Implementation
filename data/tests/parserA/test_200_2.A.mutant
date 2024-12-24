@@ -1,0 +1,28 @@
+// Syntax error on or just before line 5
+begin 
+   print 1 == 772 ; 
+   printch X < 23 ; 
+   print ( ! 14 - ( _ve ) ) * ( ! _mFP9 + + _I6xXq ) ; 
+   println ! ! 4005 == ( _v6XxRqoMzY3 || m$H ) ; 
+   println ! 1 / 4 ; 
+   { 
+      while ( 93 + ( 7 / ! nMCg ) ) 
+         printch ( HoGGLjoGu ) ; 
+      while ( _87Rw / ! ! x ) 
+         _2KG := _r33LXi < 18590224 ; 
+      { 
+         newline ; 
+      } 
+      printch jtdy ; 
+   } 
+   while ( I ) 
+      println 2 ; 
+   _l := 361486 ; 
+   { 
+   } 
+   while ( 664 ) 
+      newline ; 
+   { 
+   } 
+   newline ; 
+end 

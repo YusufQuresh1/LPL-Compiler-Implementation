@@ -1,0 +1,11 @@
+// Syntax error on or just before line 5
+begin 
+   { 
+   } 
+   714 
+   } 
+   print { ; 
+   newline ; 
+   { 
+   } 
+end 

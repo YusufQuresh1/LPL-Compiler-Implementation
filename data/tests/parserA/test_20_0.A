@@ -1,0 +1,7 @@
+// test_20_0.A
+begin
+   newline; 
+   print (LFC_fy); 
+   {
+   }
+end

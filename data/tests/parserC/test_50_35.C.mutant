@@ -1,0 +1,12 @@
+// Syntax error on or just before line 3
+begin 
+   ! new [ ( new [ 776 ] ) - m ] <= 5907 ; 
+   { 
+   } 
+end 
+SMU8i ( ) { 
+} 
+rp5 ( ) { 
+} 
+u ( ) { 
+} 

@@ -1,0 +1,8 @@
+// Syntax error on or just before line 5
+begin 
+   while ( _s4nY ) 
+      print _sV ; 
+   printch ; 
+end 
+WMx3 ( ) { 
+} 

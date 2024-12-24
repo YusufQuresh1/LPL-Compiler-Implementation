@@ -1,0 +1,5 @@
+// test_10_21.A
+begin
+   print _k; 
+   newline; 
+end

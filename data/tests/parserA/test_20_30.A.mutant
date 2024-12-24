@@ -1,0 +1,6 @@
+// Syntax error on or just before line 4
+begin 
+   _K := 487 ; 
+   while while ( ny2 ) 
+      print T ; 
+end 

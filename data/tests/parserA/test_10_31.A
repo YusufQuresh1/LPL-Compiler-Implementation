@@ -1,0 +1,6 @@
+// test_10_31.A
+begin
+   printch 462; 
+   {
+   }
+end

@@ -1,0 +1,7 @@
+// Syntax error on or just before line 4
+begin 
+   newline ; 
+   println 91 91 ; 
+   _ZR4 := _m ; 
+   newline ; 
+end 

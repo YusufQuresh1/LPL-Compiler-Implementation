@@ -1,0 +1,15 @@
+// Syntax error on or just before line 12
+begin 
+   { 
+      if ( 89375 ) 
+         { 
+         } 
+      else 
+         { 
+         } 
+      newline ; 
+      newline ; 
+      newline ; ; 
+      newline ; 
+   } 
+end 

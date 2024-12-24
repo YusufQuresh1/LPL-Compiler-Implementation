@@ -1,0 +1,10 @@
+// Syntax error on or just before line 5
+begin 
+end 
+ghAGt7 ( 
+   { 
+   } ) { 
+   newline ; 
+} 
+_s ( ) { 
+} 

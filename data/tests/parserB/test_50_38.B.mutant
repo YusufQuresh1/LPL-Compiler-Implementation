@@ -1,0 +1,15 @@
+// Syntax error on or just before line 9
+begin 
+   _lR0rHun9gaZR ( ) ; 
+   { 
+      { 
+      } 
+   } 
+end 
+_8x ( wo ) { local local _Ryo , A6c , J ; 
+   newline ; 
+} 
+_d$ ( ) { 
+} 
+sk ( ) { 
+} 

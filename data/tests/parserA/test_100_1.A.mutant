@@ -1,0 +1,27 @@
+// Syntax error on or just before line 7
+begin 
+   _D := ! 4 || ! 18695 ; 
+   while ( ! eI9rxc ) 
+      newline ; 
+   { 
+      printch ; 
+      { 
+         { 
+         } 
+         newline ; 
+         while ( 4932 ) 
+            newline ; 
+      } 
+      println _al2T2 ; 
+      { 
+      } 
+   } 
+   printch ! _j2sh4km ; 
+   newline ; 
+   { 
+      newline ; 
+      { 
+      } 
+   } 
+   println 20938 ; 
+end 

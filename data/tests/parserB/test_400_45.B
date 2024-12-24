@@ -1,0 +1,61 @@
+// test_400_45.B
+begin
+   nQSco58(); 
+   printch (4) * 9; 
+   print !739; 
+   {
+   }
+   {
+   }
+   newline; 
+end
+_8LlK6(_T3, kB8gox, A, dIPnE, _l, mXhIWz1JcYese, _SWRfmYRL){local uB, _R, _5, _5YW, _1tK9, _s__0e27K; 
+   print 1 * 779; 
+   {
+      return a2$FacJ(); 
+   }
+   qozwsm := 4 || _piI; 
+   {
+      while (_Z7 - L)
+         return 6306; 
+      println 54510; 
+      if (88306 <= !((1447) / tZ))
+         if (185 == VTtD())
+            print (_GjPA) < v4I9jgruoVrAbK; 
+         else 
+            println 805 / (1946); 
+      else 
+         {
+            i(P6bV); 
+            println 446578; 
+            {
+            }
+         }
+      dW(148); 
+      C(0, oqGv); 
+   }
+   println 765062; 
+}
+P(){local _3, Bp, FUYFX9ra, K9G; 
+   println _PKbop; 
+   println 58; 
+}
+Hu(){
+}
+_x(){local _A; 
+   {
+   }
+   printch _Eu; 
+}
+pz8RkmQ$(){
+}
+Sj$7d(gP_){local _2S; 
+   {
+   }
+   newline; 
+}
+Q(O6qmn){
+   printch mj; 
+   {
+   }
+}

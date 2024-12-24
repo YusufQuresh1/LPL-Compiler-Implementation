@@ -1,0 +1,26 @@
+// test_200_26.B
+begin
+   while (_oOd2n_(WH / NGC2) || !_cV)
+      _ISIEAcT := 858653160 / 0121; 
+   return 16 * !05; 
+   print _6a; 
+   printch c; 
+   _LR7Y$ := Z13FSooC0j7E; 
+   println !l || _BLQh7X7; 
+   newline; 
+end
+aI(aO$3HX, _oR3c, _CRlMTg4SYHoZ2_aWRKk3, _k, _Cgi, WPY){local _$J, zt$, _yLd; 
+   {
+   }
+   print 8; 
+}
+_S(lr, L){local CCyZ, savT8hcJ; 
+   println 2; 
+   if (_Q(_imh5ifTYDf))
+      {
+      }
+   else 
+      vpIg(); 
+}
+OsBv417Yi6(){
+}

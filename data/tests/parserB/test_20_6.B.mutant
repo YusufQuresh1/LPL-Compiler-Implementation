@@ -1,0 +1,10 @@
+// Syntax error on or just before line 5
+begin 
+   newline ; 
+   println 
+      newline ; ; 98205131 
+end 
+Tpe ( ) { 
+} 
+_pB ( ) { 
+} 

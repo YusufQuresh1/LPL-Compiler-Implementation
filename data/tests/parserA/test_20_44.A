@@ -1,0 +1,11 @@
+// test_20_44.A
+begin
+   {
+   }
+   {
+      println 49796575; 
+   }
+   newline; 
+   {
+   }
+end

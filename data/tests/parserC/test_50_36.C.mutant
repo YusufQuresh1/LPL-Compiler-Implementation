@@ -1,0 +1,11 @@
+// Syntax error on or just before line 3
+begin 
+   _y$r [ , ] := 3 ; 
+end 
+tS ( _r ) { local NC _r p_ , eOaigVp ; 
+   newline ; 
+} 
+u8KFs ( ) { 
+} 
+Dn ( ) { 
+} 

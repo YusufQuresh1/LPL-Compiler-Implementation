@@ -1,0 +1,6 @@
+// test_10_13.A
+begin
+   while (75)
+      {
+      }
+end

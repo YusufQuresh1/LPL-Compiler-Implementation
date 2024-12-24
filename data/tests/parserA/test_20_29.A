@@ -1,0 +1,5 @@
+// test_20_29.A
+begin
+   println _M * _oDOa; 
+   printch 674; 
+end

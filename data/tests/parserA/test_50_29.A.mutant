@@ -1,0 +1,15 @@
+// Syntax error on or just before line 4
+begin 
+   while ( ( 07 / uSM7 ) * ( b ) ) 
+      SgY := F + 08157588 + 08157588 ; 
+   newline ; 
+   if ( 87 ) 
+      { 
+      } 
+   else 
+      newline ; 
+   newline ; 
+   newline ; 
+   { 
+   } 
+end 

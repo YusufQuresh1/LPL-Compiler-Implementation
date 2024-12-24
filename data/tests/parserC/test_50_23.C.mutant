@@ -1,0 +1,15 @@
+// Syntax error on or just before line 13
+begin 
+   println _Bt / _O [ D ] ; 
+   newline ; 
+   println 39 ; 
+   { 
+   } 
+end 
+S ( ) { 
+} 
+Md3j ( ) { 
+} 
+} 
+_l5rdy ( ) { 
+} 

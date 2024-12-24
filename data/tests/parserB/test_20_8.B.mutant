@@ -1,0 +1,15 @@
+// Syntax error on or just before line 13
+begin 
+   { 
+   } 
+   newline ; 
+end 
+NFi ( ) { 
+} 
+_RbOk ( ) { 
+} 
+o ( ) { 
+} 
+} 
+_OuwG ( ) { 
+} 

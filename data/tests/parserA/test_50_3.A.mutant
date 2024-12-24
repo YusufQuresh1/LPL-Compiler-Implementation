@@ -1,0 +1,17 @@
+// Syntax error on or just before line 15
+begin 
+   { 
+      println 16 ; 
+   } 
+   print 05 - ( 4872 ) ; 
+   { 
+      newline ; 
+      { 
+      } 
+   } 
+   { 
+   } 
+   HA9zzhlz := UKgdHq4vr8p 
+   { 
+   } 
+end 

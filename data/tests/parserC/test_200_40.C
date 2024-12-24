@@ -1,0 +1,38 @@
+// test_200_40.C
+begin
+   printch 783204; 
+   while (5517)
+      newline; 
+   while (3107)
+      newline; 
+   newline; 
+   while (_zfPuAVNE)
+      newline; 
+end
+__sn$Fqx9(xt, _aT, _jz){local _z, I; 
+   printch A; 
+   _l[new[8] * 5664] := 87676 / new[99336355]; 
+   {
+   }
+}
+Ps6(N){
+   if (78)
+      newline; 
+   else 
+      newline; 
+}
+o(_lCK){local YU2ArxPXl0yPxBQF, U6J; 
+   while (!3 || __)
+      return _B4zovDEFei; 
+   println d; 
+   {
+   }
+}
+NwGr602k(a, C, x8){
+   while (y)
+      {
+      }
+}
+s(){
+   newline; 
+}

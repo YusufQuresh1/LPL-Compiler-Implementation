@@ -1,0 +1,25 @@
+// test_100_36.B
+begin
+   newline; 
+   {
+   }
+   while (93019465)
+      {
+      }
+end
+MVctP(lj, q){
+   _QgFq0fv(); 
+   {
+   }
+   return _x; 
+}
+e(){local O2jjReR0, _Gw7; 
+   print _JR() <= 5851; 
+   println (0203) && Aths; 
+   {
+   }
+}
+_$Tj(){
+}
+x07D(){
+}

@@ -1,0 +1,19 @@
+// test_50_28.A
+begin
+   if (_JDI0)
+      _V := !33198 < IsRnCkmloo; 
+   else 
+      print !_Z9Aox; 
+   newline; 
+   {
+      {
+      }
+      {
+      }
+      {
+      }
+      newline; 
+   }
+   {
+   }
+end

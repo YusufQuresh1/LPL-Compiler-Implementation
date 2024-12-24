@@ -1,0 +1,26 @@
+// Syntax error on or just before line 15
+begin 
+   { 
+      newline ; 
+   } 
+   { 
+   } 
+   { 
+   } 
+end 
+_GM ( Bo , _XyEfN , hP , DJVpyOSrf4 ) { local _XF$LEKnDy60 , _dV , _XL ; 
+   { 
+   } 
+   return _7Cz7EJ ; 
+   println , ; 
+   newline ; 
+   k ( ) ; 
+   newline ; 
+} 
+K ( ) { 
+} 
+_$ ( D0 _M _eSyU ) { 
+   { 
+   } 
+   newline ; 
+} 

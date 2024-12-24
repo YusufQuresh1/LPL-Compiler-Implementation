@@ -1,0 +1,10 @@
+// Syntax error on or just before line 3
+begin 
+   print _9 [ ] ; 
+   return _n ; 
+   return 2 ; 
+end 
+_3xSRl ( ) { local _rbj8k , U ; 
+   { 
+   } 
+} 

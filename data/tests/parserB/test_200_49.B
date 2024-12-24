@@ -1,0 +1,44 @@
+// test_200_49.B
+begin
+   while (_l5)
+      {
+         {
+         }
+      }
+end
+_raP3(K){local dO, _El$eC, _LDnX, UAfFsLY, zd36G; 
+   printch 4; 
+   println _JZJfh44Ffp; 
+}
+_O(P){local L, O6nJRnM, SK, Y; 
+   return 1356; 
+   newline; 
+   {
+   }
+}
+g9Je1y(){local _6; 
+   newline; 
+   {
+   }
+   newline; 
+   {
+   }
+}
+_L(){
+}
+C4(_2){local y; 
+   newline; 
+}
+x(){local _a; 
+   Z := _YKq_; 
+   while (_Eh3)
+      _y := L; 
+}
+yIF9(D){local o3S, e, O; 
+   newline; 
+   {
+   }
+   newline; 
+}
+Qq(){
+}

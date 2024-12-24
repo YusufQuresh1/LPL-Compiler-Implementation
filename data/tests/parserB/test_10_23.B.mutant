@@ -1,0 +1,6 @@
+// Syntax error on or just before line 5
+begin 
+   printch 8 ; 
+end 
+IBhFm ( { 
+} 

@@ -1,0 +1,17 @@
+// Syntax error on or just before line 17
+begin 
+   { 
+   } 
+   println 55 * xk [ 8 ] ; 
+   print 62 ; 
+   { 
+   } 
+end 
+wv ( ) { local FzE ; 
+   { 
+   } 
+   { 
+   } 
+} 
+_d ( ) { { 
+} 

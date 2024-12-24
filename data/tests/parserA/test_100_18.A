@@ -1,0 +1,30 @@
+// test_100_18.A
+begin
+   printch N$ || 5; 
+   newline; 
+   printch !7 == !Wq; 
+   newline; 
+   {
+      print 44; 
+      newline; 
+      printch o; 
+      newline; 
+      newline; 
+   }
+   {
+      if (_2bPKg)
+         while (ECy0Q)
+            {
+            }
+      else 
+         while ((_lzX4_f_MgxWk9BGV) / Hyw)
+            {
+               {
+               }
+            }
+      newline; 
+      {
+      }
+   }
+   newline; 
+end

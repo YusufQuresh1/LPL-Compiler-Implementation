@@ -1,0 +1,13 @@
+// Syntax error on or just before line 3
+begin 
+   if ( new [ Y04 ] ) ) 
+   else 
+      return 3 ; 
+   if ( Yacttt$ 
+      println 28 ; 
+      newline ; 
+   else 
+      newline ; 
+end 
+_9 ( _mrz6_ ) { 
+} 

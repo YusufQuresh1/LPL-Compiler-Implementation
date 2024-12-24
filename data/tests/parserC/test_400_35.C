@@ -1,0 +1,64 @@
+// test_400_35.C
+begin
+   while (!_2 && 45)
+      newline; 
+   newline; 
+   printch (28428229) && !Ils; 
+   print !!ZmNPz + new[66498]; 
+   {
+      {
+      }
+      {
+      }
+      {
+      }
+      {
+      }
+      {
+      }
+   }
+   if (Nv0DTC * !!017)
+      print e; 
+   else 
+      _L3VRJ := _t; 
+   if (5)
+      while (!(4191179) < 9)
+         printch new[!24 - new[FtYgVY]] == 7; 
+   else 
+      print 940323276 < new[03]; 
+   printch 9514674; 
+   {
+   }
+end
+_sQDnZtejSr(B, Z__, _vw){local _2, us4Gl, m9vq, ht, i; 
+   println !(new[940]) == _X0(); 
+   print 457785; 
+   {
+   }
+   print iQ; 
+   newline; 
+}
+_OV(_xIT, _t, c, _Pi8){local kD, _I, w$$4c, IMpPd, Xv, _lS5wfz1k, S, _bm, NXppP0R; 
+   {
+      print _vCHe0a7u; 
+      {
+      }
+   }
+   newline; 
+   return 560561479 == _gHO86Xuehv5; 
+   _d2O[_G] := 02; 
+   newline; 
+   {
+   }
+}
+r(){
+}
+_8h(A, _Wqwyod, _90m){local PsVHFQ, t; 
+   printch _n; 
+}
+A(){local YJ; 
+}
+fTt(){
+}
+SE(){
+}

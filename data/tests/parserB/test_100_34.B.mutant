@@ -1,0 +1,18 @@
+// Syntax error on or just before line 6
+begin 
+   printch _T ; 
+   { 
+      newline ; 
+      _nC _W ; 
+   } 
+   println _vcKD ; 
+end 
+t8vGe ( _LqUBnb6 ) { local _BL , _KF , lP , UmKf ; 
+   return 6887464 ; 
+   newline ; 
+   { 
+   } 
+} 
+N_N ( _R , _x2 ) { local _hmU , println , _H15Rx , rdj , _CwPJCFXr ; 
+   newline ; 
+} 

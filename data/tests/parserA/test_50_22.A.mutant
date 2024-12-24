@@ -1,0 +1,17 @@
+// Syntax error on or just before line 13
+begin 
+   newline ; 
+   newline ; 
+   printch 41415 ; 
+   { 
+      printch 08 ; 
+      Ldm := _n ; 
+   } 
+   printch 6619 ; 
+   { 
+   } 
+   newline ; ; 
+   println __NmzzG ; 
+   { 
+   } 
+end 

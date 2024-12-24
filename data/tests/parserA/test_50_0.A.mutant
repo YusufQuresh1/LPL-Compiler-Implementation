@@ -1,0 +1,16 @@
+// Syntax error on or just before line 3
+begin 
+   while ( := ) 
+      _XJL7 := c ; 
+   if ( 790 ) 
+      print qw ; 
+   else 
+      _Z _KBX_d ao8 ; 
+   printch GQF0QOu ; 
+   { 
+   } 
+   { 
+   } 
+   { 
+   } 
+end 

@@ -1,0 +1,7 @@
+// test_20_47.A
+begin
+   println FT <= 9; 
+   newline; 
+   {
+   }
+end

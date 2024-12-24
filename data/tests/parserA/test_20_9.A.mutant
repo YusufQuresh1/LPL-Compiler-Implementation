@@ -1,0 +1,11 @@
+// Syntax error on or just before line 10
+begin 
+   if ( _kD ) 
+      if ( 08 ) 
+         println sMZF ; 
+      else 
+         { 
+         } 
+   else 
+      newline newline ; 
+end 

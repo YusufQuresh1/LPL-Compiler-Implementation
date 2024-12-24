@@ -1,0 +1,29 @@
+// Syntax error on or just before line 23
+begin 
+   { 
+      println _QnW5z6PIuZxy0 / 314 ; 
+      newline ; 
+      { 
+      } 
+   } 
+   while ( 9 < 1299462 ) 
+      { 
+         newline ; 
+         while ( 90 && ! _IUx9 ) 
+            while ( 2 ) 
+               { 
+               } 
+         newline ; 
+      } 
+   println 97 ; 
+   printch _3 ; 
+   if ( y2 ) 
+      println 709 ; 
+   else 
+      print print 047 ; 
+   if ( 174 ) 
+      newline ; 
+   else 
+      { 
+      } 
+end 

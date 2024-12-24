@@ -1,0 +1,16 @@
+// Syntax error on or just before line 11
+begin 
+   if ( _WKQm < 461 ) 
+      printch 9 ; 
+   else 
+      while ( k < ! _KD ) 
+         C := _mSnH * 7 ; 
+   if ( ( isea ) ) 
+      print ( s ) || ! ! ( r ) ; 
+   else 
+      println ! ; 
+   printch y ; 
+   newline ; 
+   newline ; 
+   newline ; 
+end 

@@ -1,0 +1,6 @@
+// Syntax error on or just before line 3
+begin 
+   a 313 43832541 ] := [ ; 
+end 
+h ( ) { 
+} 

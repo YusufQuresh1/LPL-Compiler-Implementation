@@ -1,0 +1,36 @@
+// test_200_16.B
+begin
+   _7duqAGCo$4JPwgx(); 
+   while ((01504 < !4314773) && B((2939094), 80))
+      {
+         return 3151; 
+         newline; 
+      }
+   newline; 
+   while ((18202720) * 772)
+      newline; 
+   while ((4))
+      println 44495; 
+   en8 := 97929; 
+end
+_NAuJk(_pNMcmuy0uEYBviPTXH, _yOZt76p, A$$, zvIgbeg6HBF){local xEnK, _XTW, Cvtz, MvS, _3a, _9hI; 
+   while (38224778)
+      _01w$l := 6; 
+   newline; 
+   printch 7 <= 7; 
+   {
+   }
+   H(); 
+   newline; 
+   {
+   }
+   {
+   }
+}
+jmzTYXle(IJCez){
+   _v9(); 
+}
+_y1JQS(){
+}
+V(){
+}

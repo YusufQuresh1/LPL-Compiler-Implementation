@@ -1,0 +1,15 @@
+// Syntax error on or just before line 8
+begin 
+   while ( 002 ) 
+      { 
+      } 
+   newline ; 
+end 
+_c ) { 
+} 
+vq ( ) { 
+} 
+_e ( ) { 
+} 
+P ( ) { 
+} 

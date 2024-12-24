@@ -1,0 +1,57 @@
+// test_400_40.B
+begin
+   if (xhRf(_Cy <= (36159), 7, 24, _4) <= 918)
+      return 23486 < (!_7uBBhz || 2); 
+   else 
+      newline; 
+   println _t$x_2; 
+   newline; 
+   print Z8; 
+   {
+   }
+end
+_I(_u_xhY, _Ck7zI, yh_eZgGB151dh, _AbEq_, _n){local _fTSes; 
+   print _d * _bDenYqv; 
+   println _2; 
+}
+_E(_N, _YU44Jq){local _gWJ, h; 
+   println 7; 
+   newline; 
+}
+B4Ut(_QE0NcB6oxSA, _RH8, _W_fM, RO){local bb_, klhQwwBmV, _6K, wdM, qj1w, ca, _rpu, _8I; 
+   return !iPei / jl2DWqE; 
+   oJW_PqD := !35 < 73845246; 
+   {
+   }
+   if (484136)
+      newline; 
+   else 
+      {
+      }
+   q := 3420; 
+}
+eMXTiNOVxG8VzF1z(_I_utB, tfk){local KuMh$, v4, O, yzoI; 
+   println 279; 
+}
+_Zz4hWgpaf(_m73UMcRvwX$bZ6v, E, _TT_xJzLhji){local _V, c, bLIFe, weG; 
+   println !(6) / 4529; 
+   {
+   }
+   {
+   }
+   newline; 
+}
+_B7(){local _II5; 
+}
+L6(SnIpFf, _yXO){
+   _7 := 68111; 
+}
+P(){
+}
+CcT(){
+   newline; 
+}
+_79N(){
+}
+PN8nqq(){
+}

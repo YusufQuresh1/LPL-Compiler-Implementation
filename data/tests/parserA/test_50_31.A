@@ -1,0 +1,10 @@
+// test_50_31.A
+begin
+   _2k := (((!i) + _qO5) * pD) * 1642; 
+   print 66369; 
+   {
+   }
+   {
+   }
+   newline; 
+end

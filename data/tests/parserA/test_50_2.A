@@ -1,0 +1,12 @@
+// test_50_2.A
+begin
+   print 8277 && 40024; 
+   {
+      printch (4410019); 
+      {
+      }
+   }
+   print 0629 - 89836; 
+   newline; 
+   newline; 
+end

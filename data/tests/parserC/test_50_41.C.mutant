@@ -1,0 +1,17 @@
+// Syntax error on or just before line 16
+begin 
+   return 49 && new [ __s$2To191v7v ] ; 
+   { 
+   } 
+end 
+NWpD ( ) { 
+} 
+OBm1 ( ) { 
+   println _B ; 
+   { 
+   } 
+} 
+QPiT ( ) { 
+} 
+( ) { 
+} 

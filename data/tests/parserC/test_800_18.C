@@ -1,0 +1,87 @@
+// test_800_18.C
+begin
+   print _fMoh[new[7693 < new[new[_IvA]]] + 17] == 71409; 
+   {
+      if (41 == 8)
+         printch new[330562] == !_KyFq6; 
+      else 
+         newline; 
+      if (new[_3] || (_y8))
+         println _2Wt0; 
+      else 
+         _io2fCwyL0(); 
+      while (_YN == _sc)
+         println 829; 
+   }
+   println 4; 
+   printch 271; 
+   println _90Jkl / new[_Q]; 
+end
+hKXjch$lptacV(KU0){
+   println 9866; 
+   newline; 
+}
+_FZmVFGQC(_K, _H8U, _So632, _6, _3n, mCs0T){local t, _x28nRG$IKI3L, _d, zaPM, dba; 
+   while ((!MREpd$BJjzUy3GwQdX && (_L < 75)) == _FF)
+      println 679837; 
+   {
+   }
+   newline; 
+   {
+   }
+}
+_D(dRANEVPylTJMnqesuVv, C8Q, _pdVl, V9W, X7sYg$){local _nU, tX, U, RlmoHV0dkqUAuGLq7, _0hly, B3b; 
+   YLLqCMGtIO_m := fj[!15132244] / !!!8298; 
+   while ((!5 == UU.length) <= new[!!LjxlN - new[Ka]])
+      while (_7mWv[006892 && !_kRp.length] && (04))
+         _D7N := 997869 || _A.length; 
+   printch !__5C$k8 / 50; 
+   O$Q[(_Na) * new[buPaVYfV$zgw]] := K$; 
+   newline; 
+   {
+   }
+   newline; 
+}
+_0W(L, vs, _lu, JfM, _QmcUYsV, l, _QZu, Qbs){local _7, _Lh, a, x, pT_Ope2; 
+   _Q(); 
+   print 907664 && !_kMIBQ; 
+   while (_p$x4GIN == _0)
+      printch R; 
+   return 9 - 1; 
+   while (58 && (114035))
+      newline; 
+   printch (_w2mhq); 
+   printch 924971002; 
+}
+_$u(WzQehxFEq, _Rq, Ojjkt, _B2I){local _D, _NBMjsvQCm; 
+   newline; 
+}
+_Rfd4CHq(p, vi6S, _jEaAmc, _1ShM9t8ZnZ){local _VR, _d; 
+   println 5581 && new[_yvC]; 
+   newline; 
+   {
+      newline; 
+   }
+   if (fUmC25T)
+      newline; 
+   else 
+      newline; 
+   newline; 
+}
+_4SaYBw(SV2U, _h3, _V, _Y, p, nBF){local _BdZK; 
+   return _u || _8GK2; 
+   print 96; 
+   {
+   }
+}
+vaQbm(RCu, Jf8U, xVROQt){
+   if (6)
+      {
+      }
+   else 
+      newline; 
+}
+T(_mVsJjG, Y){local i; 
+}
+_WN8v(){
+}

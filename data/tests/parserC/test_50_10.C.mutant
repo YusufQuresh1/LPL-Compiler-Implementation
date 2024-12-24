@@ -1,0 +1,14 @@
+// Syntax error on or just before line 4
+begin 
+   newline 
+   if ( 2 - new [ gPn3I ] ) 
+      newline ; 
+   else 
+      { 
+      } 
+   newline ; 
+end 
+_xEHW ( _vP ) { local K1M0q9Ru , L$ , XKr ; 
+   { 
+   } 
+} 

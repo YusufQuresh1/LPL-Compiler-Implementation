@@ -1,0 +1,10 @@
+// Syntax error on or just before line 4
+begin 
+end 
+   print 66369 ; 
+   { 
+   } 
+   { 
+   } 
+   newline ; 
+   _2k := ( ( ( ! i ) + _qO5 ) * pD ) * 1642 ; 

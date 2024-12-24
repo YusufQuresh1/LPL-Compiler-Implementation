@@ -1,0 +1,7 @@
+// Syntax error on or just before line 2
+; 
+   return _T begin 
+   println 46966 ; 
+   newline ; 
+   newline ; 
+end 

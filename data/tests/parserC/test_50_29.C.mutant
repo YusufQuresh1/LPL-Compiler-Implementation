@@ -1,0 +1,17 @@
+// Syntax error on or just before line 7
+begin 
+   if ( 43 ) 
+      newline ; 
+   else 
+      newline ; 
+   if ( 0 - new [ _Yz _Yz ] ) 
+      print 37 ; 
+   else 
+      { 
+      } 
+   printch 949935856 ; 
+   println 8 ; 
+   print 581400 ; 
+end 
+_9n3Hm ( ) { 
+} 

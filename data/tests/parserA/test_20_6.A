@@ -1,0 +1,5 @@
+// test_20_6.A
+begin
+   g := _Y && !1; 
+   println 5; 
+end

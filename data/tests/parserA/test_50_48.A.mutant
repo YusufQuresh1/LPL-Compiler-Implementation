@@ -1,0 +1,14 @@
+// Syntax error on or just before line 3
+begin 
+   _t := _VWm _K ; 
+   if ( ( 339564 ) < ( 3215110 ) ) 
+      if ( 4 ) 
+         printch 8 ; 
+      else 
+         { 
+         } 
+   else 
+      { 
+      } 
+   printch 6900 ; 
+end 

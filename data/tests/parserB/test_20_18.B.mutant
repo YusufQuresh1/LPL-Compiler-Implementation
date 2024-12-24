@@ -1,0 +1,13 @@
+// Syntax error on or just before line 3
+begin 
+   println L4s_ { ; 
+   return 5258 ; 
+end 
+_RW ( ) { 
+} 
+_X ( ) 
+} 
+_yyE ( ) { 
+} 
+CP ( ) { 
+} 

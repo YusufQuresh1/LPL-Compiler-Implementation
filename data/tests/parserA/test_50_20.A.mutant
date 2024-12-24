@@ -1,0 +1,15 @@
+// Syntax error on or just before line 15
+begin 
+   println 85 * xr ; 
+   while ( ! 7 && 2 ) 
+      newline ; 
+   printch fUx ; 
+   { 
+      if ( 0 ) 
+         { 
+         } 
+      else 
+         { 
+   } 
+   newline ; 
+end 

@@ -1,0 +1,30 @@
+// Syntax error on or just before line 12
+begin 
+   printch N$ || 5 ; 
+   newline ; 
+   printch ! 7 == ! Wq ; 
+   newline ; 
+   { 
+      print 44 ; 
+      newline ; 
+      printch o ; 
+      newline 
+         while ( ( _lzX4_f_MgxWk9BGV ) / Hyw ) 
+            { 
+               { 
+               } 
+            } 
+      newline ; 
+   } 
+   { 
+      if ( _2bPKg ) 
+         while ( ECy0Q ) 
+            { 
+            } 
+      else ; 
+      newline ; 
+      { 
+      } 
+   } 
+   newline ; 
+end 

@@ -1,0 +1,56 @@
+// test_400_45.C
+begin
+   {
+      newline; 
+      i := 363; 
+   }
+   newline; 
+   {
+   }
+end
+_3xS(z, l, c5EF2y, rSaEOA){local Lssv2, u0v, _A, D, _Drqi4Kn1ss, WU, w_ny82gIOV; 
+   if (_$[_ypDoFI3xjD == _P1O] / new[((gR)) - 1])
+      _b[new[0663] == 601] := _D; 
+   else 
+      print _XP.length == new[!60843 / 2360819]; 
+   while (cxu7QJBVuJH * 7)
+      P1y6U2ED(); 
+   return _4maI_GG; 
+   {
+   }
+   YA02 := 03; 
+}
+FA5(_nKui$, _R, _X, _DK, _p, B){local qDKWhS98j8X, A_g, _M, _JO, _OY, HN6L; 
+   newline; 
+}
+e4YoG(h, t){local _yD_pms; 
+   {
+   }
+   newline; 
+   I := 88; 
+}
+ycEG(XpQ, _RL){local TktlcHwF, Jefwq, p; 
+   printch 767 / 809292; 
+   newline; 
+}
+ni(a, _98Knm){local QpF5VE, _WzPqY, Dzf, _3YdPH, _z; 
+   {
+      print 0050866; 
+   }
+   if (_Qc_7F)
+      newline; 
+   else 
+      println 60; 
+   println 4; 
+   newline; 
+   if (1730)
+      {
+      }
+   else 
+      {
+      }
+}
+_F(){
+}
+_So(){
+}

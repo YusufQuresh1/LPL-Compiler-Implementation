@@ -1,0 +1,88 @@
+// test_400_2.B
+begin
+   TLp3QaG(); 
+   newline; 
+   while (YfyHL3hwKVK())
+      printch 36 == !aQf8bz2b6; 
+   newline; 
+   println !(3); 
+   if (4)
+      if (yb)
+         newline; 
+      else 
+         newline; 
+   else 
+      print 5; 
+   newline; 
+   newline; 
+end
+mWa(_9JuI){local _BAKe, _4oeypR0j, MNQ, m; 
+   while (19564)
+      ajczSntkV := 3419; 
+   {
+      printch 31709610; 
+   }
+   {
+   }
+   ZN(); 
+}
+i9Kd0UmL(_q, _3Yr, i, hWCMPMSAk){local u, eu1, D9vaUiLnM, OKkUZ3c, _lg; 
+   if (74537 && _tnm)
+      {
+      }
+   else 
+      {
+      }
+   if (kEni)
+      while (03)
+         {
+         }
+   else 
+      println _UyXk; 
+   {
+      print 1684015 < m; 
+      {
+      }
+      uwc_k(); 
+      newline; 
+      newline; 
+   }
+   newline; 
+   newline; 
+   newline; 
+}
+_a$(_U){local I, ZMhv5xO37li2LiS9e, V7k, _CzR, _HD; 
+   newline; 
+   {
+      newline; 
+      newline; 
+      newline; 
+   }
+   newline; 
+}
+_U0(d, _cFjvFMZ){
+   println R; 
+   newline; 
+   return 449421 - U5; 
+   return k$oFschx; 
+}
+Ze$skM6(){local RQ, xF; 
+   {
+      printch _u; 
+      {
+      }
+   }
+   return hq; 
+}
+b1Ug(){local _3KfQSi, tT_p1, _J; 
+   if (_PwH6VC)
+      {
+      }
+   else 
+      newline; 
+   {
+   }
+}
+_pF(Rk, hDwYMuHg6OBtIfqj3){
+   newline; 
+}

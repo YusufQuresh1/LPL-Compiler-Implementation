@@ -1,0 +1,107 @@
+// test_800_41.B
+begin
+   iY := 746402 + !QZea8; 
+   if ((38 < _8v9(oRUhM)) - (850 - 32))
+      println !U_d(_0q) + !66929; 
+   else 
+      return !(0) == !_lmKVOAiK5V5(!_13_4() && (4), 035898, jG); 
+   printch (_z() && !0) + !o(_Ofawj9Ef5j9ThbyYp$OE + 7836, 87, RB5e4C5, 7555918, 4); 
+   while (_Op_fs8 <= !!31)
+      {
+         while (TW() + G)
+            println 850727; 
+         newline; 
+         zM(); 
+         newline; 
+      }
+   printch 858; 
+   printch !(_Z447) == 6; 
+   {
+      println _7; 
+   }
+   newline; 
+   if (_N1bxT)
+      if (8883)
+         while (730 == Py)
+            {
+            }
+      else 
+         newline; 
+   else 
+      newline; 
+end
+Hd(a9Iew, _6g){local _X3Qu, NBdlnMb; 
+   print 1 * SbqKn; 
+   newline; 
+   return u; 
+   while (_O)
+      {
+      }
+}
+Oon7k(kDsRSllfb4UOh, AF, _p, Qg, _W, _M){local b2AUSYvUzucijM, vl, h, _tdDRAZV; 
+   if (!LiUM < !71951)
+      println kuW6() == (cw); 
+   else 
+      {
+         if (8 <= !95)
+            while (pi)
+               if (01)
+                  if (810680)
+                     newline; 
+                  else 
+                     newline; 
+               else 
+                  _se := 37; 
+         else 
+            return _Data2Lilf * TxhVP73(); 
+         _z := H; 
+         return 596; 
+         {
+         }
+      }
+}
+L$EuG0g(Q){local j, WkCX3U4, EC3, ol, EsdF9$$kxO3F5mG; 
+   return _vCF(kpc); 
+   println 7 + !_XL; 
+   {
+      printch 6; 
+      {
+      }
+      {
+      }
+   }
+   newline; 
+   printch 65 || xMbbt; 
+   return 4537 * 2533; 
+   {
+   }
+}
+rSSc(R93vCo, __oD7, _PKJdN8v0, X){local fj, HE, AzlYw, _s; 
+   print 8379; 
+   {
+   }
+}
+HnqZ9d$lZL(LizF, _w, _fr6){local _c1, vjLc6, dJuL8U_C; 
+   while (7)
+      {
+      }
+   while (98)
+      println ZdTHgX; 
+}
+hQxpfD2CB7SHoaaZds(){
+}
+aE(_oir3, StJ, EOO2msqJpKI, t, _M, eciPhI){local _H3Yx0O, _9, Rix; 
+   newline; 
+   if (ocJYvJr)
+      newline; 
+   else 
+      {
+      }
+}
+_Ks16(){local _AYtZRwU6URm9; 
+   newline; 
+   return 38; 
+   newline; 
+}
+_3(){
+}

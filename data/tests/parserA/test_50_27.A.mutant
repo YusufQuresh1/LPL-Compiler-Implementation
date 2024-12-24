@@ -1,0 +1,22 @@
+// Syntax error on or just before line 13
+begin 
+   yV9 := _E * jGE ; 
+   { 
+      { 
+         newline ; 
+      } 
+      printch 4 ; 
+      if ( uAf0 ) 
+         { 
+         } 
+      else 
+         3850785 ( while ) 
+            newline ; 
+      { 
+      } 
+      { 
+      } 
+   } 
+   { 
+   } 
+end 

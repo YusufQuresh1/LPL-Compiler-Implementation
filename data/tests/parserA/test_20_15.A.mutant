@@ -1,0 +1,10 @@
+// Syntax error on or just before line 7
+begin 
+   if ( 99 ) 
+      newline ; 
+   else 
+      newline ; 
+   println ( ) ; 
+   { 
+   } 
+end 

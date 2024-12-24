@@ -1,0 +1,22 @@
+// test_100_1.C
+begin
+   newline; 
+   {
+      {
+      }
+      H := 3 && new[91]; 
+      newline; 
+   }
+   return _4uX; 
+   newline; 
+   println 7; 
+end
+zs(_ehV6G_C, __mFx){local _T, F7sG; 
+   print h; 
+}
+bOVFhF6T82S(){
+}
+_VK0(_vlAT){local kNNZzh8ob7r; 
+}
+_$7OCM(){
+}

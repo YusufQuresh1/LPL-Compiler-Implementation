@@ -1,0 +1,12 @@
+// Syntax error on or just before line 6
+begin 
+   while ( new [ 07 ] ) 
+      { 
+      } 
+   newline HyW 
+   while ( 6 ) 
+      newline ; 
+end 
+_F7s2 ( ; ) { local VP$N , lxi0L ; 
+   newline ; 
+} 

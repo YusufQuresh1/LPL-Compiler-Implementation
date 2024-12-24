@@ -1,0 +1,9 @@
+// test_20_41.A
+begin
+   XD := 32 + 2; 
+   newline; 
+   {
+   }
+   {
+   }
+end

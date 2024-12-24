@@ -1,0 +1,10 @@
+// test_50_43.A
+begin
+   print _sg1s && 9455; 
+   {
+      print (761943188); 
+   }
+   while (704592)
+      NWn2B := 5 - C; 
+   println 7; 
+end

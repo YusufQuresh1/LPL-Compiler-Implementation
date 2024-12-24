@@ -1,0 +1,16 @@
+// test_50_41.A
+begin
+   {
+   }
+   {
+      println !_WEO * 275; 
+      println (_pi); 
+      {
+      }
+      printch LJ; 
+   }
+   {
+   }
+   {
+   }
+end

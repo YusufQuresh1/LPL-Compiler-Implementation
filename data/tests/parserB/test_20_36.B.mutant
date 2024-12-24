@@ -1,0 +1,7 @@
+// Syntax error on or just before line 3
+begin 
+   _lz _lz ( ) ; 
+   newline ; 
+end 
+ScoPf ( ) { 
+} 

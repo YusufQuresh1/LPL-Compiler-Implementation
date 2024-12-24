@@ -1,0 +1,11 @@
+// test_20_10.A
+begin
+   {
+   }
+   {
+   }
+   print 714; 
+   newline; 
+   {
+   }
+end

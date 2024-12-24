@@ -1,0 +1,14 @@
+// Syntax error on or just before line 7
+begin 
+   wgd2 ( ) ; 
+   printch 9866 ; 
+   if ( 162249150 ) 
+      newline ; 
+      { 
+      } 
+end 
+__GA ( q6V_or ) { 
+   newline ; 
+} 
+_dr ( fb ) { 
+} 

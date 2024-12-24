@@ -1,0 +1,8 @@
+// test_10_29.A
+begin
+   while (ZQA_LDn)
+      {
+      }
+   newline; 
+   newline; 
+end

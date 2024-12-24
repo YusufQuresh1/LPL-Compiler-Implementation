@@ -1,0 +1,15 @@
+// test_20_24.A
+begin
+   {
+      if (89375)
+         {
+         }
+      else 
+         {
+         }
+      newline; 
+      newline; 
+      newline; 
+      newline; 
+   }
+end

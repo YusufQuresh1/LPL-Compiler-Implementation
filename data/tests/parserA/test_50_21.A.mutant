@@ -1,0 +1,9 @@
+// Syntax error on or just before line 3
+begin 
+   print ( et et ) < 5 ; 
+   if ( 188700 == 21 ) 
+      printch ! EnlzuL3xMZ ; 
+   else 
+      _B := 78999 ; 
+   print 40 ; 
+end 

@@ -1,0 +1,9 @@
+// test_20_18.A
+begin
+   print (E); 
+   newline; 
+   {
+   }
+   {
+   }
+end

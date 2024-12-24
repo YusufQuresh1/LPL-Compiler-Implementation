@@ -1,0 +1,27 @@
+// Syntax error on or just before line 13
+begin 
+   { 
+      newline ; 
+      I84E := _r1 ; 
+      print _nPR1 ; 
+      { 
+         { 
+         } 
+         newline ; 
+      } 
+   } 
+   print 72 || || _$mu ; 
+   print ! 5 + 103 ; 
+   { 
+      printch _i ; 
+   } 
+   print _Eup ; 
+   newline ; 
+   if ( 1 ) 
+      { 
+      } 
+   else 
+      newline ; 
+   print 9 ; 
+   newline ; 
+end 

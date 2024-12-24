@@ -1,0 +1,20 @@
+// test_200_44.B
+begin
+   print !(_Q7pf() < ((gxT7))) <= 52476; 
+   print at(); 
+end
+_NGh(F_GZ8$, _MK, qGKja06){local _F, NTb, ASRXdLl9xqCk, _e, JCN, _9cA; 
+   print 81643209 * (U); 
+   {
+   }
+}
+oC(ewld, __HND, E, u){local e; 
+   printch CM * 23926; 
+}
+h(K1D, _R){local _ysn3cy, h; 
+   _cZCtEw0HD := whwvV9T; 
+   print !(_Re() == 63138928) * (_ZE); 
+   newline; 
+   {
+   }
+}

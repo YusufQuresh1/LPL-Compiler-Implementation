@@ -1,0 +1,37 @@
+// test_200_39.B
+begin
+   newline; 
+   newline; 
+   printch 06930 / _yWfkS; 
+   _7Z := _e1AmEn() - 47; 
+   return !(RQQGx) <= 9; 
+   print 7454; 
+end
+GT_COt(_Lh_f, _dZjq, _K, _IvXfrB, gR, DTfChW7){local _iVxJERM, j5DQ, JQaPU8tBl3Jov; 
+   newline; 
+   newline; 
+   newline; 
+   {
+   }
+   newline; 
+}
+_a(aIpJeRsCi1tK7kIr_, _pxl6P){
+   while (_0)
+      newline; 
+   newline; 
+}
+V6BXp(_p){local _4_; 
+   newline; 
+}
+_eqyFN(_$F21t0YdQyp){local _ZfRrb3; 
+   newline; 
+   t(d, _XF9BUKPwsD); 
+}
+rz_tUPx(ZXdA3Fq_PdX){
+   {
+   }
+   {
+   }
+}
+_9(){
+}

@@ -1,0 +1,36 @@
+// test_200_31.B
+begin
+   while ((1) * _7X_)
+      if (523222474 / (16))
+         {
+         }
+      else 
+         while ((0169) <= 7)
+            {
+               while (_BiJ)
+                  newline; 
+               println 0359; 
+            }
+   newline; 
+   KYGA4c := VAfJ() < _eo; 
+   printch 64; 
+   newline; 
+   {
+   }
+   while (85)
+      newline; 
+end
+uF(_9D, _WZ, _h6l, PQ, _LcNVb, _8){local ca, u, Ovhv; 
+   printch _WkGOItDUuBx / (A); 
+}
+_Xe(b, _AroJ, _ydk){local _i, _G5S7; 
+   printch H0FE0; 
+   {
+   }
+   newline; 
+}
+wIXQOblB(){
+   newline; 
+}
+FP5_u(){
+}

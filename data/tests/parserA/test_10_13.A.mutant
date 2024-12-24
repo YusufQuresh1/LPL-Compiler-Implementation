@@ -1,0 +1,6 @@
+// Syntax error on or just before line 3
+begin 
+   while ( 75 75 ) 
+      { 
+      } 
+end 

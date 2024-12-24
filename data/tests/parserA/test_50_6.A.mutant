@@ -1,0 +1,21 @@
+// Syntax error on or just before line 13
+begin 
+   printch _LH5 || 7 ; 
+   newline ; 
+   { 
+      println _rU7svCU55eJ ; 
+      { 
+      } 
+      } 
+      print _vcK9TtYz ; 
+      { 
+      } 
+   } 
+   { 
+   } 
+   { 
+   } 
+   newline ; 
+   { 
+   } 
+end 

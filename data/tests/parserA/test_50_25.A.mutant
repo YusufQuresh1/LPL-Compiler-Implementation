@@ -1,0 +1,13 @@
+// Syntax error on or just before line 5
+begin 
+   if ( 703147094 ) 
+      println Mj ; 
+      { 
+         c := 50 ; 
+      } 
+   while ( 86 ) 
+      newline ; 
+   print EhOvh4q1nNUD ; 
+   newline ; 
+   printch 503218307 ; 
+end 

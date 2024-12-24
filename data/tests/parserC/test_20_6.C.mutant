@@ -1,0 +1,8 @@
+// Syntax error on or just before line 3
+begin 
+   Z [ 40 ] := _1 ; [ 40 ] := _1 ; 
+end 
+_h ( ) { 
+} 
+_8 ( ) { 
+} 

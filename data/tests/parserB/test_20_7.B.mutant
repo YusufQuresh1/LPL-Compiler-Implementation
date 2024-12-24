@@ -1,0 +1,13 @@
+// Syntax error on or just before line 13
+begin 
+   if ( WYXVf ) 
+      newline ; 
+   else 
+      newline ; 
+end 
+mQ ( ) { 
+} 
+kjKl ( ) { 
+} 
+mmZdsR ( ) { { 
+} 

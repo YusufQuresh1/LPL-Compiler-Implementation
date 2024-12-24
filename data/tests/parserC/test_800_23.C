@@ -1,0 +1,108 @@
+// test_800_23.C
+begin
+   QG := 2; 
+   println (25 < 3) || 1; 
+   print 2009; 
+   printch _oMZ84; 
+end
+_N(_J_n, _b89_Cc, _dTqz, ra, _ADEz, _O_V, _K9){local _uj, _1, _rjI, mB, _x, _3XHj, _Bb6sV, _nbc2, _4; 
+   {
+      return 76; 
+      {
+      }
+   }
+   println new[qINV / ZglT]; 
+   printch _7k(new[new[41429]] * !foThvnB5) + !new[54611]; 
+   newline; 
+   if (new[6 + 2] < 56)
+      return _$_x1 <= _2.length; 
+   else 
+      if (_SyDr1hoVU9BYqQ[1] < (_xx))
+         println (rlg); 
+      else 
+         println ON; 
+   println ((36)) * new[ilkDnVd]; 
+   {
+   }
+   newline; 
+   newline; 
+}
+_n(_mbjQ, kHpVtIuP){local _Rsy, _X1sKgoobnzJnU, nT79F, _DLGWG, _Dhl, P; 
+   return new[866278] - !170; 
+   _jB$4(); 
+   while (!bev)
+      newline; 
+   {
+   }
+}
+_XV0(_MSApV2, nHYT, _J, _U, Nz, i6VHX){local _iCFWd, hBEK; 
+   printch !49668339 + new[713]; 
+   {
+      println m; 
+      if (861)
+         {
+         }
+      else 
+         {
+         }
+   }
+   println o558odU; 
+   newline; 
+}
+__1W(_II, _a){local _JnfgW, A, Q_wc, _yM7S, _VOO$, _$zFl; 
+   {
+   }
+   if ((xi0rAHu0u) + O9ADg3b)
+      newline; 
+   else 
+      {
+         return eH; 
+      }
+}
+_ghO(BGE7vi8rT, _wytD, BI, _JBlWVQW3){local CzJtF, _$f, r3; 
+   return new[!_c3V83dMo / (500)] < 058369; 
+   MX := _j8; 
+}
+AyRxOz(_ibnW, lBhbTqM, _KtMqLHccInMnbR){local _l, gY2FjdWO, _pPzb, Ip, u; 
+   println 49; 
+   while (47098)
+      print 47370315; 
+   {
+   }
+   _E(07 || 0642, 4); 
+}
+L(_Fj, UdS){local gevF, C2_; 
+   {
+   }
+   _3(21, 336861, 0); 
+   return 05; 
+   return 312019; 
+   newline; 
+   {
+   }
+}
+M_(qmVgk$$6E8PqOCetc7, _a9Sv){
+   newline; 
+   return y; 
+   {
+      if (_gcm / 96)
+         printch Glmui$ZnrvrMMZ - _r; 
+      else 
+         {
+         }
+      {
+      }
+      {
+         {
+         }
+      }
+      return 49; 
+      return 80293; 
+   }
+   return _l2; 
+   {
+      newline; 
+   }
+   {
+   }
+}

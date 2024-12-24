@@ -1,0 +1,14 @@
+// test_20_11.A
+begin
+   newline; 
+   newline; 
+   {
+   }
+   {
+   }
+   if (_7)
+      {
+      }
+   else 
+      newline; 
+end

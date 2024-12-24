@@ -1,0 +1,17 @@
+// test_100_20.A
+begin
+   X7 := (1679363 || 67) * ((((56) / 62447709))); 
+   newline; 
+   if (9 < _u)
+      newline; 
+   else 
+      println (31) + 990703; 
+   {
+      print 7211; 
+      {
+      }
+   }
+   newline; 
+   println _nrO; 
+   newline; 
+end

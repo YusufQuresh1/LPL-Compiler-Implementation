@@ -1,0 +1,15 @@
+// Syntax error on or just before line 15
+begin 
+   { 
+      { 
+      } 
+      { 
+      } 
+   } 
+   { { 
+   } 
+   { 
+   } 
+   { 
+   } 
+end 

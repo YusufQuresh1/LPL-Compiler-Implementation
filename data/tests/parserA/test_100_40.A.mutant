@@ -1,0 +1,20 @@
+// Syntax error on or just before line 14
+begin 
+   if ( 5 + ! ! _1E2 ) 
+      { 
+         print ( cyZMClzOg ) ; 
+         print 256031572 ; 
+         { 
+         } 
+      } 
+   else 
+      if ( 34 <= ( 4 ) ) 
+         Wi5 := _1TD ; 
+      else 
+         printch _nZm _nZm ; 
+   while ( _LM_Usx || 79 ) 
+      printch _XcB9 || k ; 
+   newline ; 
+   print O5U ; 
+   newline ; 
+end 

@@ -1,0 +1,16 @@
+// test_50_20.A
+begin
+   println 85 * xr; 
+   while (!7 && 2)
+      newline; 
+   printch fUx; 
+   {
+      if (0)
+         {
+         }
+      else 
+         {
+         }
+   }
+   newline; 
+end

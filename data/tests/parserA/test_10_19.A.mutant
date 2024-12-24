@@ -1,0 +1,4 @@
+// Syntax error on or just before line 2
+begin begin 
+   printch _6aOX ; 
+end 

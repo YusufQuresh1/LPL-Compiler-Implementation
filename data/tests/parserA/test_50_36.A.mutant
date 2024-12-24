@@ -1,0 +1,15 @@
+// Syntax error on or just before line 7
+begin 
+   { 
+      while ( ! 8 * lelJ ) 
+         _Po := 2995 ; 
+      printch 3 ; 
+      println 6353 ; ; 
+      { 
+      } 
+   } 
+   newline ; 
+   { 
+   } 
+   newline ; 
+end 

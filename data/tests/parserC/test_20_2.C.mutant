@@ -1,0 +1,5 @@
+// Syntax error on or just before line 5
+begin 
+   println new [ 04 ] <= ( 5 ) ; 
+end 
+_o4sYzjWZIUTs2P ( ) { 

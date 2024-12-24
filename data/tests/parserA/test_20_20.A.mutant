@@ -1,0 +1,12 @@
+// Syntax error on or just before line 8
+begin 
+   if ( 8 ) 
+      { 
+      } 
+   else 
+      
+      } 
+   b6kK_iF := 432053 ; 
+   { 
+   } 
+end 

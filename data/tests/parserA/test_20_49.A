@@ -1,0 +1,7 @@
+// test_20_49.A
+begin
+   {
+   }
+   print 84; 
+   print _n; 
+end

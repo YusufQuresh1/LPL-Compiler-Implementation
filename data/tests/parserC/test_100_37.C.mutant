@@ -1,0 +1,21 @@
+// Syntax error on or just before line 19
+begin 
+   if ( _zmw_Vk1z ) 
+      newline ; 
+   else 
+      return new [ a ] ; 
+   newline ; 
+   { 
+   } 
+end 
+xvDe ( _k , _3 ) { local _WK9 ; 
+} 
+_w7WfBzxl ( _C ) { 
+   if ( 43 ) 
+      newline ; 
+   else 
+      newline ; 
+} 
+jPrt ( lO ) { local , R ; 
+   XOyRP [ 097669 ] := 46381 ; 
+} 

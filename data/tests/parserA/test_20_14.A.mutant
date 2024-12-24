@@ -1,0 +1,11 @@
+// Syntax error on or just before line 10
+begin 
+   { 
+      newline ; 
+      newline ; 
+      println _b ; 
+      newline ; 
+      newline ; 
+   } 
+   } 
+end 

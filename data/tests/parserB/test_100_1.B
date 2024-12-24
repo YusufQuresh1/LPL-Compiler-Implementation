@@ -1,0 +1,28 @@
+// test_100_1.B
+begin
+   while (732)
+      print _B; 
+end
+_D6ijt3(_7Z23, _uG){local _H; 
+   if (_9)
+      newline; 
+   else 
+      {
+      }
+   {
+   }
+   newline; 
+}
+_Qne(_hO$ezY_5uge){local i; 
+   if (48667)
+      newline; 
+   else 
+      {
+      }
+}
+_iySfY(Ze$S8GPrdx){local gSv; 
+   {
+   }
+}
+_oe(){
+}

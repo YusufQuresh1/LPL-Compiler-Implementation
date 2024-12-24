@@ -1,0 +1,7 @@
+// Syntax error on or just before line 5
+begin 
+   print _7z2 ; 
+end 
+end 
+_b07 ( ) { 
+} 

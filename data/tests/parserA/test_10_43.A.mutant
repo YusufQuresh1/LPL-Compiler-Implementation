@@ -1,0 +1,5 @@
+// Syntax error on or just before line 5
+begin 
+   hTPf2G := _Asa6 ; 
+   newline 
+end 

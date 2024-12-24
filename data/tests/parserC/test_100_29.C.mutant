@@ -1,0 +1,31 @@
+// Syntax error on or just before line 3
+begin 
+   while ( 6257431 <= ; ) 
+      newline ; 
+   { 
+      printch 807 ; 
+   } 
+   newline ; 
+   { 
+   } 
+end 
+E ( _Bk2 ) { local _Bv new [ 8180 ] 
+   if ( 0 ) 
+      { 
+      } 
+   else 
+      newline ; 
+   { 
+   } 
+   { 
+   } 
+} 
+_fFYTPx ( _5 ) { 
+   print 40281 ; 
+} 
+kaF ( ) { 
+} 
+Go3ErfS8 ( ) { local gr ; 
+} 
+VtHII ( ) { 
+} 

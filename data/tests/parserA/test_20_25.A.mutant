@@ -1,0 +1,6 @@
+// Syntax error on or just before line 5
+begin 
+   while ( 684 ) 
+      println _b4ZbUR60 ; 
+   print r ; ; 
+end 

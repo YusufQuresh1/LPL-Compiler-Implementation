@@ -1,0 +1,41 @@
+//1
+//3
+//5
+//7
+//9
+//2
+//4
+//6
+//8
+//10
+//
+
+begin
+    array1 := new[obscure()];
+    j := 0;
+    while (j < array0.length) {
+        array1[j] := (j + 1) * 2;
+        j := j + 1;
+    }
+    j := 0;
+    while (j < array0.length) {
+        println array0[j];
+        j := j + 1;
+    }
+    j := 0;
+    while (j < array1.length) {
+        println array1[j];
+        j := j + 1;
+    }
+end
+
+obscure() {
+    local i;
+    array0 := new[5];
+    i := 0;
+    while (i < array0.length) {
+        array0[i] := 1 + (i * 2);
+        i := i + 1;
+    }
+    return 5;
+}

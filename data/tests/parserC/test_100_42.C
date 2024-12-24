@@ -1,0 +1,17 @@
+// test_100_42.C
+begin
+end
+_0HW(){local fcnW; 
+   {
+   }
+}
+_3hHjS(A, _dNRubY, J){local BZUkp; 
+}
+_O3H(){
+}
+_q(_I, _SnO, _WQ, _F){local _N1; 
+   print 44 < new[70]; 
+   return zeMxk / lZ; 
+}
+p7(){
+}

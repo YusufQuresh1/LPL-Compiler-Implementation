@@ -1,0 +1,31 @@
+// test_200_45.C
+begin
+   println 5; 
+   newline; 
+end
+_5M(tg){local _U2mF, oDX$nVwV, _Bj; 
+   newline; 
+}
+_9bBD(L1M_g, _OUCW){local _iNoVQ, _d, _GdiSsBubS1R_ar, _IsSZlqk, B, lp; 
+   newline; 
+   printch (9); 
+   printch 89; 
+   newline; 
+}
+lGns(K2fb3d3G3W, _DA, _dkj0ug){local V; 
+}
+_oK(_Z, _24, cUjHcfkLE, SG8qq, i){local _5kc, h_hnnP; 
+   printch z2u; 
+   print new[_e15] && 59; 
+   {
+   }
+   newline; 
+   {
+   }
+}
+U6(){local QxeP4; 
+   while (_y)
+      newline; 
+   {
+   }
+}

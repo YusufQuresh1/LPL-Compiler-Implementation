@@ -1,0 +1,14 @@
+// test_100_39.A
+begin
+   printch 321 <= (((!(lw) && 8689) * !!(!!2)) + 307); 
+   newline; 
+   println 5764212 && _j; 
+   newline; 
+   {
+   }
+   {
+   }
+   ltQ8 := 76987; 
+   print _02; 
+   newline; 
+end

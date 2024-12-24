@@ -1,0 +1,42 @@
+//0
+//1
+//9
+//120
+//1
+//2
+//3
+//
+
+begin
+    z := 1;
+    println foo0();
+    println foo1();
+    println foo9(99, 10);
+    println fac(5);
+    sideEffect(1,2,3);
+end
+
+foo0() {
+}
+
+foo1() {
+    return 1;
+}
+
+foo9(x, y) { x := x / (y + z); return x; }
+
+fac(n) {
+    local xxx;
+    if (n < 2) {
+        return 1;
+    } else {
+        xxx := fac(n - 1);
+        return n * xxx;
+    }
+}
+
+sideEffect(x, y, z) {
+    println x;
+    println y;
+    println z;
+}

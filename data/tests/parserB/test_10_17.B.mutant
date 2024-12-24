@@ -1,0 +1,6 @@
+// Syntax error on or just before line 3
+begin 
+   LH := _Ore _Ore ; 
+end 
+_Gi8FeuqF6h ( ) { 
+} 

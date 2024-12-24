@@ -1,0 +1,27 @@
+// test_100_1.A
+begin
+   _D := !4 || !18695; 
+   while (!eI9rxc)
+      newline; 
+   {
+      printch 8661; 
+      {
+         {
+         }
+         newline; 
+         while (4932)
+            newline; 
+      }
+      println _al2T2; 
+      {
+      }
+   }
+   printch !_j2sh4km; 
+   newline; 
+   {
+      newline; 
+      {
+      }
+   }
+   println 20938; 
+end

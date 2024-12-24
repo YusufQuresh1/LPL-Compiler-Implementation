@@ -1,0 +1,21 @@
+// test_100_31.B
+begin
+   println (QfNN || 00) / 64321; 
+   {
+   }
+   newline; 
+   newline; 
+   _x := 478; 
+end
+_Rj7g1IHh2wW1m(_V, ie$){local Ce, d; 
+   _bXUxAE := 4; 
+   return (bwsM2s) == U; 
+   _G0(); 
+   while (76)
+      {
+      }
+}
+_Q(){
+}
+_wRmx(){
+}

@@ -1,0 +1,16 @@
+// test_50_0.A
+begin
+   while (_KBX_d)
+      _XJL7 := c; 
+   if (790)
+      print qw; 
+   else 
+      _Z := ao8; 
+   printch GQF0QOu; 
+   {
+   }
+   {
+   }
+   {
+   }
+end

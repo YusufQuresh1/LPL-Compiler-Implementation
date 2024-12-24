@@ -1,0 +1,13 @@
+// Syntax error on or just before line 6
+begin 
+   if ( ! _PxROe ) 
+      print VRF ; 
+   else 
+      printch ; 
+   { 
+   } 
+   newline ; 
+   newline ; 
+end 
+mv ( ) { 
+} 

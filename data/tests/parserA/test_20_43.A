@@ -1,0 +1,7 @@
+// test_20_43.A
+begin
+   newline; 
+   println 91; 
+   _ZR4 := _m; 
+   newline; 
+end

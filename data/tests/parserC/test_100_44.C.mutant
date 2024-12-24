@@ -1,0 +1,21 @@
+// Syntax error on or just before line 12
+begin 
+   newline ; 
+   { 
+   } 
+end 
+_5 ( ) { 
+} 
+otS ( n ) { local _$ , _lAp ; 
+   while ( ( 0901 ) || 0087 ) 
+      println 4 ; 
+   while ( ) 
+      if ( ! 42 ) 
+         { 
+         } 
+      else 
+         newline ; 
+} 
+_Cburii0gjI9 ( _s7 ) { local gH ; 
+   print 7432 ; 
+} 

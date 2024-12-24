@@ -1,0 +1,4 @@
+// Syntax error on or just before line 4
+begin 
+   Wo5 := 10261 
+end 

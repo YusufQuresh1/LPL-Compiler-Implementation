@@ -1,0 +1,48 @@
+// test_200_49.A
+begin
+   newline; 
+   {
+      {
+         {
+         }
+         print !(1); 
+         {
+         }
+         newline; 
+      }
+      print (l / _YB); 
+      {
+         if (_E5)
+            {
+            }
+         else 
+            {
+            }
+         newline; 
+      }
+      if (4)
+         printch _nu; 
+      else 
+         {
+         }
+      println _KfUp; 
+      newline; 
+      {
+      }
+   }
+   printch ((!!!CSF < 48) == 881207) + (m * S); 
+   print 1; 
+   e2 := _GAdwSXlS == 5; 
+   printch _d3WtTr9 + rhWV2K; 
+   if (033)
+      newline; 
+   else 
+      {
+      }
+   print !_r; 
+   while (3)
+      {
+      }
+   {
+   }
+end

@@ -1,0 +1,24 @@
+// test_100_44.B
+begin
+   print Oc6() * 9; 
+   printch 4791 < 30629; 
+   while (2 <= H)
+      printch 7089685; 
+   {
+   }
+   println 7 < V; 
+end
+_s7eB(_dV7pLG){local _u; 
+   {
+   }
+   {
+   }
+}
+_ltL(){
+}
+n0ED(){
+}
+MNtW(){
+}
+_S0_(){
+}

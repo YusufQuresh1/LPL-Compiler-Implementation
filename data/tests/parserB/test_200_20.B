@@ -1,0 +1,31 @@
+// test_200_20.B
+begin
+   tykOCDYj(); 
+   {
+   }
+end
+N(_C, v$4ORj, _5l7wPm, aa4ZCi, qnRrrr, p, _9, _jqGIk, CE){local _ekOr8, O_IND, u5VYpRF; 
+   while (8701 && 1)
+      return !JxZ / 8900; 
+   newline; 
+   newline; 
+   {
+   }
+}
+A(AEQU, ___, l, LI, jbp5, _oa){local WWvQIYW_; 
+   return 4896759 < !8; 
+   println 568582; 
+   newline; 
+   newline; 
+}
+_ZO_7r(){
+   {
+   }
+}
+_WyLGVdf7$ii(cLp, LHey11oxa){local _yD0$6lFtSu, B; 
+   newline; 
+}
+_gmz(_3VUtH9){local _VjUHM2; 
+}
+E(){
+}

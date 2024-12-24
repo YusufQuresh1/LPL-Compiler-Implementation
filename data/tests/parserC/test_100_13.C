@@ -1,0 +1,15 @@
+// test_100_13.C
+begin
+   println ((_OQB4lQS9M < _X$) <= fZ) && new[630 && (3586386)]; 
+   return 210460 || 69494; 
+   return new[AI] - 0; 
+   newline; 
+   {
+   }
+   newline; 
+   return 45; 
+end
+WT19ofev9d8$(_zZDc2$c, k){local _WSjz, l; 
+   {
+   }
+}

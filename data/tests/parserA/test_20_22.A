@@ -1,0 +1,11 @@
+// test_20_22.A
+begin
+   newline; 
+   {
+   }
+   if (571)
+      newline; 
+   else 
+      {
+      }
+end

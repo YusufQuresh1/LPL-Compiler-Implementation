@@ -1,0 +1,13 @@
+// test_20_7.A
+begin
+   {
+      {
+      }
+      {
+      }
+      {
+      }
+   }
+   newline; 
+   newline; 
+end

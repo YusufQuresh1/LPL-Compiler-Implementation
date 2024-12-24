@@ -1,0 +1,20 @@
+// Syntax error on or just before line 13
+begin 
+   A := 224308 <= ( wsvr ) ; 
+   printch 3048 ; 
+   { 
+      print 33 || e4 ; 
+   } 
+   if ( ! ( __Fu_uesLXU - ! ( _E ) ) == 18673 ) 
+      if ( 5612201 ) 
+         { 
+         } 
+      else 
+         if ( R_ == == Vz ) 
+            newline ; 
+         else 
+            newline ; 
+   else 
+      newline ; 
+   println X ; 
+end 

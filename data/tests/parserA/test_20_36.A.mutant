@@ -1,0 +1,12 @@
+// Syntax error on or just before line 2
+begin begin 
+   if ( 11077 ) 
+      if ( 06 ) 
+         { 
+         } 
+      else 
+         newline ; 
+   else 
+      { 
+      } 
+end 

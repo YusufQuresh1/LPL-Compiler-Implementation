@@ -1,0 +1,23 @@
+// test_50_24.A
+begin
+   if (0113)
+      newline; 
+   else 
+      {
+         {
+         }
+         newline; 
+         {
+         }
+         printch 822; 
+      }
+   print _UD9bc3Uob; 
+   println 9; 
+   if (659)
+      {
+      }
+   else 
+      newline; 
+   {
+   }
+end

@@ -1,0 +1,107 @@
+tokens {
+    SKIP: "((//.*(\r?\n))|\s)+" -- DO NOT MODIFY (simple comments and whitespace)
+    LSQBR: "\["
+    RSQBR: "\]"
+    DOT: "\."
+    LBR: "\("
+    RBR: "\)"
+    LCBR: "\{"
+    RCBR: "\}"
+    SEMIC: ";"
+    COMMA: ","
+    BEGIN: "begin"
+    END: "end"
+    LOCAL: "local"
+    NEW: "new"
+    LENGTH: "length"
+    PRINTLN: "println"
+    PRINT: "print"
+    PRINTCH: "printch"
+    NEWLINE: "newline"
+    ASSIGN: ":="
+    WHILE: "while"
+    IF: "if"
+    ELSE: "else"
+    RETURN: "return"
+    -- keywords reserved for future language extensions:
+    -- "printstr", ""switch", "case", "default"
+    SWITCH: "switch"
+    CASE: "case"
+    DEFAULT: "default"
+    PRINTSTR: "printstr"
+    MUL: "\*"
+    DIV: "/"
+    ADD: "\+"
+    SUB: "-"
+    EQ: "=="
+    LT: "<"
+    LE: "<="
+    NOT: "!"
+    AND: "&&"
+    OR: "\|\|"
+    -- string literals are not used in the current grammar but are included
+    -- here for future language extensions
+    STRINGLIT: ""[^\\"\n]*("|\\([^\n][^\\"\n]*\\)*[^\n][^\\"\n]*")"
+    -- an identifier is a non-empty sequence of letters, digits, underscores,
+    -- and dollar signs, but cannot start with a digit or a dollar sign and
+    -- cannot be just a single underscore
+    ID: "(_[a-zA-Z_0-9$]+)|([a-zA-Z][a-zA-Z_0-9$]*)"
+    INTLIT: "[0-9]+"
+}
+
+Program -> BEGIN Stm* END FunDef*
+
+FunDef -> ID LBR Formals RBR LCBR Locals Stm* RCBR
+
+Formals -> ID AnotherVar*
+Formals ->
+
+Locals -> LOCAL ID AnotherVar* SEMIC
+Locals ->
+
+AnotherVar -> COMMA ID
+
+Stm -> ID StmIdFollow
+Stm -> IF LBR Exp RBR Stm ELSE Stm -- if-statement
+Stm -> WHILE LBR Exp RBR Stm -- while-loop
+Stm -> PRINT Exp SEMIC -- output decimal (no newline)
+Stm -> PRINTLN Exp SEMIC -- output decimal (with newline)
+Stm -> PRINTCH Exp SEMIC -- output character
+Stm -> NEWLINE SEMIC -- output newline
+Stm -> RETURN Exp SEMIC -- return from call (or halt in main program)
+Stm -> LCBR Stm* RCBR -- block
+
+StmIdFollow -> LSQBR Exp RSQBR ASSIGN Exp SEMIC -- assignment to an array element, factored
+StmIdFollow -> ASSIGN Exp SEMIC -- assignment to a variable, factored
+StmIdFollow -> LBR Actuals RBR SEMIC -- function call (return value discarded), factored
+
+Exp -> SimpleExp OperatorClause
+
+OperatorClause -> Operator SimpleExp
+OperatorClause ->
+
+SimpleExp -> ID ExpIdFollow
+SimpleExp -> INTLIT -- integer literal
+SimpleExp -> LBR Exp RBR -- bracketed expression
+SimpleExp -> NEW LSQBR Exp RSQBR -- new array
+SimpleExp -> NOT SimpleExp -- logical negation
+
+ExpIdFollow -> LBR Actuals RBR -- function call, factored
+ExpIdFollow -> LSQBR Exp RSQBR -- array look-up, factored
+ExpIdFollow -> DOT LENGTH -- array length, factored
+ExpIdFollow -> -- variable, factored
+
+Operator -> MUL
+Operator -> DIV
+Operator -> SUB
+Operator -> ADD
+Operator -> LT
+Operator -> LE
+Operator -> EQ
+Operator -> AND
+Operator -> OR
+
+Actuals -> Exp AnotherActual*
+Actuals ->
+
+AnotherActual -> COMMA Exp

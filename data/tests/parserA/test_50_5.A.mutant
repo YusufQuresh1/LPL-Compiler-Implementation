@@ -1,0 +1,19 @@
+// Syntax error on or just before line 6
+begin 
+   print 3 ; 
+   if ( ! _$ ) 
+      { 
+         if ( ) 
+            while ( XA ) 
+               { 
+               } 
+         else 
+            newline ; 
+         newline ; 
+      } 
+   else 
+      { 
+         { 
+         } 
+      } 
+end 

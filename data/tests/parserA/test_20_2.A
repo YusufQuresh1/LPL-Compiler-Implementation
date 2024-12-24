@@ -1,0 +1,6 @@
+// test_20_2.A
+begin
+   printch (S_FBS) + _Mm; 
+   printch 0; 
+   newline; 
+end

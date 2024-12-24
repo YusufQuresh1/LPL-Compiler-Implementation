@@ -1,0 +1,15 @@
+// test_50_16.A
+begin
+   g := 8618 * (55 < !3); 
+   if (S)
+      newline; 
+   else 
+      _Iv := 2; 
+   while (2171)
+      if (_cu)
+         {
+         }
+      else 
+         {
+         }
+end

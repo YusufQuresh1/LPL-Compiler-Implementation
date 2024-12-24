@@ -1,0 +1,17 @@
+// Syntax error on or just before line 8
+begin { 
+   println _V == new [ new [ Cs ] == 14 ] ; 
+   newline ; 
+   printch _U ; 
+   _8 ( ) ; 
+   newline ; 
+end 
+_oW ( ) { 
+} 
+_xXNqNv ( ) { 
+} 
+DtBv1V ( ) 
+   newline ; 
+} 
+H ( ) { 
+} 

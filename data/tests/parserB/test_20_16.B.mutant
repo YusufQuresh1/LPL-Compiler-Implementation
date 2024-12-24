@@ -1,0 +1,15 @@
+// Syntax error on or just before line 10
+begin 
+   printch Hj11ECadzehKWA ; 
+   { 
+   } 
+   { 
+   } 
+   { 
+   } 
+   newline newline ; 
+end 
+_$M ( ) { 
+} 
+_pTz ( ) { 
+} 

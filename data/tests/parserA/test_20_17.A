@@ -1,0 +1,6 @@
+// test_20_17.A
+begin
+   newline; 
+   newline; 
+   println !_lxG; 
+end

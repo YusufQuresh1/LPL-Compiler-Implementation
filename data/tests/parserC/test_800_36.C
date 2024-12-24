@@ -1,0 +1,88 @@
+// test_800_36.C
+begin
+   newline; 
+   {
+      Maz := 6 * (_eb); 
+      newline; 
+      return _o.length / new[_$J7edrXivb]; 
+      newline; 
+      if (new[31] < nYAlNKw)
+         return 18; 
+      else 
+         printch 7; 
+      newline; 
+      newline; 
+      newline; 
+   }
+   print _8n[0438678 * (0)] / !new[new[5764 && 918118]]; 
+   {
+      println new[new[_VC * cWjU] + _2A] || WREuYIEEK0(997); 
+      if (D)
+         {
+         }
+      else 
+         newline; 
+   }
+   printch !(new[93917082]) / _lg_BSE7gjoqAXq0mH; 
+   if (255)
+      {
+         printch 2 <= 837; 
+         newline; 
+         while (Z)
+            newline; 
+         newline; 
+         newline; 
+      }
+   else 
+      VTpxh5 := 1399625; 
+   print new[new[(RuPt) && 69] == 0] || r_wN; 
+   return 99 <= 585; 
+   print new[_uKa] / __4Tr; 
+   print Ip; 
+end
+_X(M, _SJYVl9a4qQqX, vSo, J, _n, _Q, _en6msvYL){local _Fg93Ux6zDU5l, l, _8m_ay5RcPX, OBDQV, qX, Q3rQoLa, oaGlTVH, OVylgO, _$zebXv5, _fT7HeVl2fJ9; 
+   _mHh_((520 + (27314)) && qr.length, !0 || 27, 93, 6129, 762692); 
+   {
+      if (hY)
+         _Tw(); 
+      else 
+         if (_O9)
+            if (6)
+               printch _x; 
+            else 
+               newline; 
+         else 
+            newline; 
+      {
+      }
+   }
+   while (new[240 < 061055] || new[rO[Crkg_(new[5], 7679669) == _Z$[233]] / (_j46j)])
+      printch 8282393 || 02147; 
+   while (!(4 <= new[!!!06 && new[_U61CyJmobBrKUJ2dZY == 1]]) * _d)
+      newline; 
+   gwQe7 := !_tUsDB - oVTgHx22(); 
+   return !845 < 5; 
+   {
+   }
+}
+By(E_, _J5){local ac; 
+   return 4; 
+   Y(); 
+   {
+   }
+}
+S7PQ0(_t, _z, _a, xl, b7_AA){local SmiSE, _hC9x, _viFbX; 
+   print 78744165; 
+   print (_BQ) && new[69432]; 
+}
+_Hd_L(_dY, _YW44iR){local _GVgSzLZyOqz, _yil, Fc, _S0q; 
+   return _ecFaIH - x; 
+}
+_I1m0(){local p, dCk; 
+   _y := 418; 
+   newline; 
+}
+_MS(){
+}
+_7(){
+}

@@ -1,0 +1,6 @@
+// test_10_30.A
+begin
+   newline; 
+   newline; 
+   St := 66312; 
+end

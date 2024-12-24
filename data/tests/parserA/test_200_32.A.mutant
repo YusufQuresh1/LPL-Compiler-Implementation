@@ -1,0 +1,21 @@
+// Syntax error on or just before line 21
+begin 
+   printch ( 3373889 / ! ! o ) / _HZ ; 
+   printch ! 46 - ( ( ( 70 - ! _ZNLVwzUDUVErE ) < ! 8 ) || _XynC$q2C ) ; 
+   println _5FkwwW == ( ! ( 67218 - T2J ) == ! 9 ) ; 
+   print ( ! 586 / _qg77Z$ ) - ! 2275 ; 
+   { 
+      printch ! 865 <= ! 2 ; 
+      print ( ( 70 ) ) <= 2 ; 
+      newline ; 
+      if ( _Rq$ + 21016 ) 
+         newline ; 
+      else 
+         newline ; 
+      newline ; 
+      { { 
+      } 
+   } 
+   newline ; 
+   newline ; 
+end 

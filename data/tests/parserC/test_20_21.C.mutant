@@ -1,0 +1,7 @@
+// Syntax error on or just before line 3
+begin 
+   printch new [ 88 ] 8901572 ; 
+   newline ; 
+end 
+Uh1sFD_ ( ) { 
+} 

@@ -1,0 +1,12 @@
+// Syntax error on or just before line 3
+begin 
+   print 8277 && 40024 && 40024 ; 
+   { 
+      printch ( 4410019 ) ; 
+      { 
+      } 
+   } 
+   print 0629 - 89836 ; 
+   newline ; 
+   newline ; 
+end 

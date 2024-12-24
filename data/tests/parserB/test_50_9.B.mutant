@@ -1,0 +1,15 @@
+// Syntax error on or just before line 15
+begin 
+   { 
+      while ( 253552 ) 
+         while ( jhLk6hJsW ) 
+            { 
+            } 
+   } 
+   printch 7 * 0 ; 
+   CWPSRt ( ) ; 
+   newline ; 
+   newline ; 
+   print QBG ; 
+   newline 
+end 

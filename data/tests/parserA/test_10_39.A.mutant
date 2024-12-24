@@ -1,0 +1,5 @@
+// Syntax error on or just before line 2
+287 
+   printch begin ; 
+   newline ; 
+end 

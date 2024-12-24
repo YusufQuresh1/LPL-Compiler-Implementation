@@ -1,0 +1,20 @@
+// Syntax error on or just before line 4
+begin 
+   printch 9628 ; 
+   println _W + ( p || ) ; 
+   while ( 99 ) 
+      _z ( ) ; 
+   printch ( ! 550 ) < 5 ; 
+   printch ( _n ) ; 
+   { 
+   } 
+   newline ; 
+end 
+_5jSV ( pBsJi , _7E ) { local A , _zA ; 
+   { 
+   } 
+   newline ; 
+   newline ; 
+} 
+__F ( ) { 
+} 

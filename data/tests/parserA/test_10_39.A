@@ -1,0 +1,5 @@
+// test_10_39.A
+begin
+   printch 287; 
+   newline; 
+end

@@ -1,0 +1,23 @@
+// Syntax error on or just before line 4
+begin 
+   b [ 
+      newline ; _J_ ] := 7503280 ; 
+   { 
+      newline ; 
+   } ! 
+   { 
+   } 
+   { 
+   } 
+   newline ; 
+   { 
+   } 
+end 
+_eA ( ) { 
+   { 
+   } 
+} 
+_9N8 ( ) { 
+} 
+_2Hk ( ) { 
+} 

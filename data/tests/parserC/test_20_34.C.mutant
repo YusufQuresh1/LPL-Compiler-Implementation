@@ -1,0 +1,6 @@
+// Syntax error on or just before line 6
+begin 
+   _hA [ pHs_sl ] := 69 ; 
+   { 
+   newline ; 
+end 

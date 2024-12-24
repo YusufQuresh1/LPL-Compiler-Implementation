@@ -1,0 +1,12 @@
+// Syntax error on or just before line 3
+begin 
+   ; 90923 ; 
+   { 
+      newline printch 
+   } 
+   newline ; 
+   { 
+   } 
+   { 
+   } 
+end 

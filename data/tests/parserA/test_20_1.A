@@ -1,0 +1,12 @@
+// test_20_1.A
+begin
+   printch 90923; 
+   {
+      newline; 
+   }
+   newline; 
+   {
+   }
+   {
+   }
+end

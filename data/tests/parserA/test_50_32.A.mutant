@@ -1,0 +1,20 @@
+// Syntax error on or just before line 5
+begin 
+   if ( atv ) 
+      if ( 
+         print 010 ; ) _KP7DLoYLgt 
+      else 
+         print 6674649 ; 
+   else 
+      if ( 294 ) 
+         if ( uaNqhqmVJ ) 
+            { 
+            } 
+         else 
+            newline ; 
+      else 
+         { 
+         } 
+   newline ; 
+   println _qR ; 
+end 

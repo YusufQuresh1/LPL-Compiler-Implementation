@@ -1,0 +1,5 @@
+// test_10_5.A
+begin
+   printch _JuK; 
+   newline; 
+end

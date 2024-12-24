@@ -1,0 +1,16 @@
+//88
+//
+
+begin
+ x := 20;
+ if (x) {
+     x := x - 7;
+     if (x - 13) {
+         println x;
+     } else {
+         println 88;
+     }
+ } else {
+     println 99;
+ }
+end

@@ -1,0 +1,64 @@
+// test_400_17.B
+begin
+   print _b3v5J; 
+   return 426462 && 6; 
+   newline; 
+   _22Y31D6e5(); 
+   print 8; 
+   {
+   }
+end
+_U(_XA07, _2JLuEi$rP1G4p, juz, lj){local _2, _QC2, _f, _9ra, _D_1gp1RovC, _x5tINuX89iAjL9pJx; 
+   {
+      if ((369))
+         print _quW || p; 
+      else 
+         return 4 * 052; 
+      newline; 
+      {
+      }
+   }
+   printch 4; 
+   _dE(); 
+   return 4565762; 
+   while (_L * ((83)))
+      printch 223; 
+   {
+      newline; 
+      newline; 
+      newline; 
+   }
+}
+_3N(){
+   {
+   }
+   {
+   }
+}
+_r4(lhCxfD, _GBb, _ttH6U, Ldf, _S){local qAV, L8Eg, _VHy8fu, bkV, PC2, kuxz0QCgK, p; 
+   print 1 / 5; 
+   {
+   }
+   newline; 
+   printch 17; 
+}
+_1(iK, _6WiU, _kz, _LSTgU, a3gi){local _FzAMKd, _3n, _Q84q; 
+   newline; 
+}
+F(_C, _KgM7t){local _Or, a, W, z4Sd, F, ph_TvqkCr; 
+   newline; 
+   while (_Jpad1X1)
+      {
+      }
+   {
+   }
+}
+Obg(){
+}
+_Vs(){
+}
+lk(){local K1, _d3Qn1; 
+   return 74; 
+}
+_kB(T){local Q, fDb; 
+}

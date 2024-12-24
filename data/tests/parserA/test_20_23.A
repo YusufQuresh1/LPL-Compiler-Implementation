@@ -1,0 +1,7 @@
+// test_20_23.A
+begin
+   printch Xh$g3; 
+   print v; 
+   newline; 
+   printch xi; 
+end

@@ -1,0 +1,6 @@
+// test_20_30.A
+begin
+   _K := 487; 
+   while (ny2)
+      print T; 
+end

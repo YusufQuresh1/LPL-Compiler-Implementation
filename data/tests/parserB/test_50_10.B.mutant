@@ -1,0 +1,18 @@
+// Syntax error on or just before line 11
+begin 
+   { 
+      newline ; 
+      { 
+      } 
+   } 
+   { 
+   } 
+   newline ; 
+Jeh ( ) { 
+} 
+gN1M4GW__qfuL ( 
+end ) { 
+   print 2532 ; 
+} 
+_dE3WyccLiZS ( ) { 
+} 

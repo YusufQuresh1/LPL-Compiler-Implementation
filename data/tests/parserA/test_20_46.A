@@ -1,0 +1,8 @@
+// test_20_46.A
+begin
+   {
+   }
+   newline; 
+   println 6601; 
+   printch 1; 
+end

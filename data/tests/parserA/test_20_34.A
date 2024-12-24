@@ -1,0 +1,10 @@
+// test_20_34.A
+begin
+   {
+   }
+   if (649 < 79879)
+      {
+      }
+   else 
+      newline; 
+end

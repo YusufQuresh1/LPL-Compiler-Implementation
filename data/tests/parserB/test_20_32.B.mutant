@@ -1,0 +1,10 @@
+// Syntax error on or just before line 7
+begin 
+   newline ; 
+   { 
+   } 
+end 
+_QslBvE _QslBvE ( ) { 
+} 
+t ( ) { 
+} 

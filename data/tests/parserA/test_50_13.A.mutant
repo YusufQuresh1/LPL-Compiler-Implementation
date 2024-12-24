@@ -1,0 +1,18 @@
+// Syntax error on or just before line 10
+begin 
+   println 8 ; 
+   print 5277383 - _BH ; 
+   if ( ! aRgCQH1$EA9He ) 
+      { 
+      } 
+   else 
+      newline ; 
+   newline ; ; 
+   newline ; 
+   { 
+   } 
+   print 6 ; 
+   { 
+   } 
+   newline ; 
+end 

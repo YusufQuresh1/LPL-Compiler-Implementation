@@ -1,0 +1,48 @@
+// Syntax error on or just before line 15
+begin 
+   newline ; 
+   { 
+      { 
+         { 
+         } 
+         print ! ( 1 ) ; 
+         { 
+         } 
+         newline ; 
+      } 
+      print ( l / _YB ) ; 
+      { m 
+         newline ; 
+      } 
+      if ( 4 ) 
+         printch _nu ; 
+      else 
+         { 
+         } 
+      println _KfUp ; 
+      newline ; 
+      { 
+      } 
+   } 
+   printch ( ( ! ! ! CSF < 48 ) == 881207 ) + ( 
+      if ( _E5 ) 
+         { 
+         } 
+      else 
+         { 
+         } * S ) ; 
+   print 1 ; 
+   e2 := _GAdwSXlS == 5 ; 
+   printch _d3WtTr9 + rhWV2K ; 
+   if ( 033 ) 
+      newline ; 
+   else 
+      { 
+      } 
+   print ! _r ; 
+   while ( 3 ) 
+      { 
+      } 
+   { 
+   } 
+end 

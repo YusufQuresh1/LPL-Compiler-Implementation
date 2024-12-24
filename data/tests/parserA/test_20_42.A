@@ -1,0 +1,11 @@
+// test_20_42.A
+begin
+   if (0538357)
+      {
+      }
+   else 
+      newline; 
+   {
+   }
+   println 47; 
+end

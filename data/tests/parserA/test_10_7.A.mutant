@@ -1,0 +1,7 @@
+// Syntax error on or just before line 2
+{ 
+   newline ; 
+   begin 
+   } 
+   newline ; 
+end 

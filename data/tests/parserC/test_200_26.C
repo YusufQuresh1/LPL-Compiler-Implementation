@@ -1,0 +1,32 @@
+// test_200_26.C
+begin
+   printch new[new[(new[_Xo2F3r3eS]) + !699] + _6()] - !4; 
+   while (V73kFJ.length == new[70])
+      println 26623; 
+   return _oTU9k; 
+   newline; 
+   _fQU := WOFdRb; 
+   {
+      newline; 
+   }
+   newline; 
+end
+GYf(_LAP6, A8){local EtXj, lbNH, _yWs1v, ok, co2vfN, _SJoKLj, c; 
+   {
+      newline; 
+   }
+   newline; 
+   {
+      _0TB(); 
+   }
+   newline; 
+   println 34; 
+   printch !new[lvW]; 
+   _Jp48$neL(); 
+   {
+   }
+}
+_2Jg(){
+}
+I3o(){
+}

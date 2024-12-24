@@ -1,0 +1,22 @@
+// test_100_18.C
+begin
+   println 949675; 
+   print new[82]; 
+   newline; 
+   printch k; 
+   print (R <= !412) || 5; 
+   return 4585149; 
+   println 9; 
+   printch _nbW4g; 
+end
+_r(){
+}
+_j8LA(){local wC; 
+   newline; 
+   newline; 
+}
+tFdcDL(){
+   {
+   }
+   newline; 
+}

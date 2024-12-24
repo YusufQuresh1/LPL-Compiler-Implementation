@@ -1,0 +1,14 @@
+// Syntax error on or just before line 5
+begin 
+   newline ; 
+   println _t ; 
+   print ; 
+   Tb6eO5hf := ! 541 ; 
+   if ( XizB == ! 87 ) 
+      newline ; 
+   else 
+      { 
+      } 
+   { 
+   } 
+end 

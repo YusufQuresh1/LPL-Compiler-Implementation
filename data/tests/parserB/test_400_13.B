@@ -1,0 +1,50 @@
+// test_400_13.B
+begin
+   print 41166652 || !(853); 
+   println (434); 
+   return _8G; 
+   newline; 
+end
+t4mFm51spvh(_tKcDJY, TX, _l, cz_, _Vz8iZ, K, _4CGx$C0u4L){local dXU, _kn2yPsgH, _gUc, osFubAKkeGSBa2ZR, cN9; 
+   printch 566 <= (0); 
+   print !_O8Gq7A(XOw) < 214; 
+   print !4 || (U8 * lCe7z); 
+}
+_Zy0ID(_Ra, Y, yFo6, z){local _YDc, dw, U, _Gzz, pk; 
+   printch 8808; 
+   println !_Q && 9; 
+   if ((0) <= _f)
+      if (!_k)
+         return xu; 
+      else 
+         {
+         }
+   else 
+      {
+      }
+   {
+   }
+}
+bh(_L, _VVzN, tt1_4g4rA, _u, XMOuH1$, _oaCY){local _uy, Mu, Dn$, v2_; 
+   {
+      println _cex(_sZkGY6Uqe1a, 779634); 
+      printch 817770; 
+      newline; 
+   }
+   println 06591; 
+   while (_h)
+      newline; 
+   println 3015492; 
+   println _d; 
+   newline; 
+}
+a(P, _T9GSZ){local _U, mfdf40pN, tX, u92, _8; 
+   newline; 
+   return _j; 
+}
+Di(){
+}
+e$b(){
+}
+_YerW8(){
+}

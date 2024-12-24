@@ -1,0 +1,41 @@
+// test_200_40.B
+begin
+   while (!3442846)
+      println !!ZAgkU(4865) - 13; 
+   {
+   }
+end
+_k(rS, ojckpA4sGlD){
+}
+QCNNo(){local T, kA, _s, Xqx1Ioyw, S; 
+   if (K)
+      while (_M4k)
+         {
+         }
+   else 
+      printch SSyOXA1K3No70VH3kG; 
+   newline; 
+   if (MJm1FE)
+      print KhRytYNV; 
+   else 
+      {
+      }
+   {
+   }
+   LA8Flr4a(); 
+}
+_Q2(_Ex, Tp){local _zG, _B; 
+   if (_FQMyO)
+      {
+      }
+   else 
+      {
+      }
+}
+ou(_$qOLU, _RJSJ){local nmsJj, _Llru, _AQ0; 
+   print j - (_y); 
+}
+_1lp1QAaPVZdqBxa(){
+   {
+   }
+}

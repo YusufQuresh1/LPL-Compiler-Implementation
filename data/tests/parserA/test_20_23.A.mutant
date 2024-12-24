@@ -1,0 +1,7 @@
+// Syntax error on or just before line 4
+begin 
+   printch Xh$g3 ; 
+   print print v ; 
+   newline ; 
+   printch xi ; 
+end 

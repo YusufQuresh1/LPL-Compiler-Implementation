@@ -1,0 +1,7 @@
+// Syntax error on or just before line 7
+begin 
+   println new [ 261 ] && voX ; 
+   newline ; 
+end 
+d ( ) { { 
+} 

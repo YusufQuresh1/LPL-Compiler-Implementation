@@ -1,0 +1,19 @@
+// test_50_5.A
+begin
+   print 3; 
+   if (!_$)
+      {
+         if (62268)
+            while (XA)
+               {
+               }
+         else 
+            newline; 
+         newline; 
+      }
+   else 
+      {
+         {
+         }
+      }
+end

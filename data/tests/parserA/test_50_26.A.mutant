@@ -1,0 +1,16 @@
+// Syntax error on or just before line 7
+begin 
+   while ( 5143 ) 
+      newline ; 
+   if ( 7 || _X28 ) 
+      newline 
+   else 
+      print 668813 / _4JW ; 
+   while ( rsMNt ) 
+      { 
+         { 
+         } 
+      } 
+   { 
+   } 
+end 

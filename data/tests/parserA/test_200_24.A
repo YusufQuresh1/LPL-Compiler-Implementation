@@ -1,0 +1,42 @@
+// test_200_24.A
+begin
+   {
+      newline; 
+      print !_ws; 
+      if (!!5 && 0)
+         newline; 
+      else 
+         print ZA; 
+      {
+      }
+      printch _W; 
+      {
+      }
+      newline; 
+   }
+   print !8971 + _OL; 
+   vi := (_n) == 26; 
+   {
+      newline; 
+      newline; 
+      printch !(WDL4zwaz_v) || 1771849; 
+      newline; 
+   }
+   _b := __lf2Ove <= _Q; 
+   printch rhkAm - !(_M4L$); 
+   {
+      if ((_P) + 2)
+         println 2895; 
+      else 
+         {
+            newline; 
+         }
+      o := 11040175; 
+      print ETJ; 
+      {
+      }
+   }
+   _R := ionQ; 
+   newline; 
+   newline; 
+end

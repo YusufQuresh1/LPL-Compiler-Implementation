@@ -1,0 +1,13 @@
+// test_50_0.C
+begin
+   while (ZMuzil5r_HH < new[_kak])
+      {
+      }
+end
+sE(_n0H3OplFgewfRzgkR){local _xe, iTlGHu9Oo, _IKV4m; 
+   while (_p0p)
+      newline; 
+   newline; 
+}
+_ZXV(){
+}

@@ -1,0 +1,7 @@
+// Syntax error on or just before line 3
+begin 
+   newline newline ; 
+   printch _K6AbtiBn11gstvJbq3vko ; 
+   { 
+   } 
+end 

@@ -1,0 +1,4 @@
+// test_10_25.A
+begin
+   _OF1 := _UX; 
+end

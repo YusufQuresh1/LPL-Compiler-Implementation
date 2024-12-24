@@ -1,0 +1,30 @@
+// test_200_13.C
+begin
+   {
+   }
+   newline; 
+   newline; 
+   NfzYDGgsn4jC8(_qwl); 
+   newline; 
+end
+B(_S_vdv, OMb, _Pp0rdCVLw0, _Fypd, _LX){local _$i, _nSS8Kgm, _9LpB; 
+   {
+   }
+   while (7626 < xHFfxm)
+      {
+      }
+   print new[!7107090 / 7]; 
+   printch 5; 
+}
+_Z(_hxH2zz7p, _ybc, r, Cn){local _J, Z, _Efg2; 
+   print new[JL]; 
+   printch _w7w; 
+   while (t)
+      {
+      }
+}
+I(){local _gRb; 
+}
+_k(wAa, h9){local wWV, uLni, _r0rgJ; 
+   newline; 
+}

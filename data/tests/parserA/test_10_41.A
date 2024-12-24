@@ -1,0 +1,9 @@
+// test_10_41.A
+begin
+   if (333)
+      newline; 
+   else 
+      newline; 
+   {
+   }
+end
